@@ -21,9 +21,21 @@ A user has described a change below. Based on that input, return department-wise
 
 For each department that is relevant, generate a table with these columns:
 1. Possible Impact Area (row title)
-2. Impact (Yes/No)
-3. Documents Impacted
-4. Justification
+2. Impact → Yes or No
+3. Documents Impacted → Use actual document names from the list below if impacted, else write "—"
+4. Justification → Short reason why the document is impacted, or "Not impacted"
+
+📂 List of documents you MUST use when relevant:
+- PRSOP, PFC, STSOP, SCSOP, UTSOP, RMTS, FGTS, PMTS, QCSOP, QCSTP, MICSOP, MICSTP
+- PROC (QMS Quality procedures), SMF (Site Master File - DCGI), QMM (Quality Manual)
+- RA docs: RA-1 to RA-11
+- SC (Supplier Controls), ASL (Approved Supplier List), 
+- Validation - IQ, OQ, PQ, VMP
+- CAL (Calibration IQ), Calibration Matrix
+- Artwork (Labels, IFUs), AHU
+- Product Master, Device Master Record, Environmental Monitoring Records, UDI
+- Stability Study Plan and Reports
+- Technical Master File
 
 Use this layout:
 Department: [Department Name]
