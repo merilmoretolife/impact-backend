@@ -71,7 +71,7 @@ The departments and their possible impact areas are:
 - Notification to NBs / Competent Authorities
 - If Other, Please Specify
 
-Only include departments that are impacted based on the input.
+Always include all 5 departments (Design, Production, QC, QA, RA), even if they are not impacted. If not impacted, clearly write "No" in the Impact column, and "Not applicable" or "No impact" in the justification column.
 
 Change Description:
 \"\"\"{change_description}\"\"\"
