@@ -79,13 +79,13 @@ Change Description:
 Respond in Markdown table format, one per department.
     """
 
-response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[{"role": "user", "content": prompt}],
-    temperature=0.3
-)
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3
+    )
 
-return response.choices[0].message.content
+    return response.choices[0].message.content
 
 @app.route('/assess', methods=['POST'])
 def assess():
