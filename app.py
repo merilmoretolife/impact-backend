@@ -5,6 +5,9 @@ import os
 import uuid
 from openai import OpenAI
 
+with open("Master List EndoSurgery.txt", "r", encoding="utf-8") as f:
+    doc_masterlist_text = f.read()
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
@@ -19,23 +22,16 @@ You are a regulatory and quality expert helping assess the departmental impact o
 
 A user has described a change below. Based on that input, return department-wise impact analysis.
 
+📂 Use the following official master list of documents to choose the correct impacted document numbers with names:
+=== MASTER DOCUMENT LIST ===
+{doc_masterlist_text}
+=== END MASTER LIST ===
+
 For each department that is relevant, generate a table with these columns:
 1. Possible Impact Area (row title)
 2. Impact → Yes or No
-3. Documents Impacted → Use actual document names from the list below if impacted, else write "—"
+3. Documents Impacted → Use actual document number and names from the list above if impacted, else write "—"
 4. Justification → Short reason why the document is impacted, or "Not impacted"
-
-📂 List of documents you MUST use when relevant:
-- PRSOP, PFC, STSOP, SCSOP, UTSOP, RMTS, FGTS, PMTS, QCSOP, QCSTP, MICSOP, MICSTP
-- PROC (QMS Quality procedures), SMF (Site Master File - DCGI), QMM (Quality Manual)
-- RA docs: RA-1 to RA-11
-- SC (Supplier Controls), ASL (Approved Supplier List), 
-- Validation - IQ, OQ, PQ, VMP
-- CAL (Calibration IQ), Calibration Matrix
-- Artwork (Labels, IFUs), AHU
-- Product Master, Device Master Record, Environmental Monitoring Records, UDI
-- Stability Study Plan and Reports
-- Technical Master File
 
 Use this layout:
 Department: [Department Name]
