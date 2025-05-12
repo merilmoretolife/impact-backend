@@ -1,0 +1,1324 @@
+Category	Document Number	Document Title	Department
+PRSOP	PRSOP-1	Check weigher Operation	Production
+PRSOP	PRSOP-2	Suture Reel Winding Machine	Production
+PRSOP	PRSOP-3	Thermal Tipping Machine	Production
+PRSOP	PRSOP-4	Operation of Frame winding Machine	Production
+PRSOP	PRSOP-6	Swaging of Needle & Suture	Production
+PRSOP	PRSOP-7	Swaging Dies Inspection & Handling	Production
+PRSOP	PRSOP-8	Operation of Nitrogen Chamber	Production
+PRSOP	PRSOP-9	Thera 650 Thermoforming Machine	Production
+PRSOP	PRSOP-10	Blanking Machine	Production
+PRSOP	PRSOP-11	Curing Oven	Production
+PRSOP	PRSOP-12	Suture breakage testing of thermal Tipped Sutures	Production
+PRSOP	PRSOP-14	Cleaning of instrument, equipment, machine & tables	Production
+PRSOP	PRSOP-15	Preparation of Preservation Liquid for Collagen Suture (Catgut)	Production
+PRSOP	PRSOP-16	Preparation of Tipping Solution for Braided Sutures	Production
+PRSOP	PRSOP-17	Meril Bone wax Manufacturing	Production
+PRSOP	PRSOP-18	Operation of Final Wrapping Machine	Production
+PRSOP	PRSOP-19	Winding of Suture and Umbilical Cotton Tape	Production
+PRSOP	PRSOP-20	Final Sealing Machine	Production
+PRSOP	PRSOP-21	Thera 450 Thermoforming Machine	Production
+PRSOP	PRSOP-23	Packaging process	Production
+PRSOP	PRSOP-24	Pouch sealing Machine	Production
+PRSOP	PRSOP-25	Siliconization & curing / Coating of Atraumatic needles	Production
+PRSOP	PRSOP-26	Operation of Standard suture winding	Production
+PRSOP	PRSOP-27	Filatwine Operation	Production
+PRSOP	PRSOP-28	EtO Cylinder/Cartridge Handling	Production
+PRSOP	PRSOP-29	Operation of ETC Sterilizer	Production
+PRSOP	PRSOP-30	Defect Classification	Production
+PRSOP	PRSOP-31	IPA Filtration Assembly	Production
+PRSOP	PRSOP-32	Scrubber plant for ETC sterilizer	Production
+PRSOP	PRSOP-33	Vision System on Blanking machine	Production
+PRSOP	PRSOP-34	Operation of Shrink wrapping machine	Production
+PRSOP	PRSOP-35	Steel Suture Welding	Production
+PRSOP	PRSOP-36	Packing of Steel suture, mesh and kit	Production
+PRSOP	PRSOP-37	Operation of Dynamic passbox	Production
+PRSOP	PRSOP-38	Operation of Static passbox	Production
+PRSOP	PRSOP-39	Less Memory Tray Winding machine	Production
+PRSOP	PRSOP-40	Operation of Printing Machine	Production
+PRSOP	PRSOP-41	Handling of products for Gamma Irradiation	Production
+PRSOP	PRSOP-42	Foam Pasting on paper Folder	Production
+PRSOP	PRSOP-43	Manufacturing of Merinium Mesh	Production
+PRSOP	PRSOP-44	Manufacturing of Profound A and N	Production
+PRSOPSFE	PRSOPSFE-1	Operation of Spin Pack Assembly and its cleaning	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-2	Operation of Pre-heating oven	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-3	Operation of Polymer Drying Unit	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-4	Operation of Additive Dosing Mixture	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-5	Operation of Melt Spinning Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-6	Operation Of Rewinding Machine (ME-E3-RM-01)	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-7	Operation Of Twisting Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-8	Operation Of Braiding Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-9	Opeartion Of Hank Winding Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-10	Operation Of vaccum Annealing Machine (ME-E3-VA-01)	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-12	Preparation of Normal Coating Solution for PGLA & PGA Suture	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-13	Preparation of Triclosan Coating Solution for PGLA & PGA Suture	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-14	Operation Of Coating Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-15	Operation Of vaccum Packing Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-16	Operation Of Ultrasonic Cleaning Bath	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-17	Entry & exit Procedure to suture coating area ( class 10000)	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-18	Area Fumigation and Fogger Machine Operation	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-19	Bulk suture extrusion product and packing Defects identification	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-20	Operation of Muffle furnace	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-21	Operation Of Rewinding Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-22	Operation Of Annealing Machine	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-23	Operation of Washing Tank	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-24	Operation of Homogenizer	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-25	Operation of Dry Storage Cabinet	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-26	Temperature, Humidity and differential pressure monitoring of Meril park 2	Production Bulk Suture
+PRSOPSFE	PRSOPSFE-27	Procedure for Material Movement Control	Production Bulk Suture
+PRSOPEMD	PRSOPEMD-1	Firing Handle Assembly of Skin Stapler	Production Stapler
+PRSOPEMD	PRSOPEMD-2	Nail Bin Assembly of Skin Stapler	Production Stapler
+PRSOPEMD	PRSOPEMD-3	Ultrasonic Welding Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-4	Ultrasonic Welding	Production Stapler
+PRSOPEMD	PRSOPEMD-5	Labelling of endo mechanical closure devices	Production Stapler
+PRSOPEMD	PRSOPEMD-6	Final packing of endo mechanical closure devices	Production Stapler
+PRSOPEMD	PRSOPEMD-7	Outer box labelling of endo mechanical closure devices	Production Stapler
+PRSOPEMD	PRSOPEMD-8	Circular And PPH Pin Assembly	Production Stapler
+PRSOPEMD	PRSOPEMD-9	Endocutter Reload Assembly	Production Stapler
+PRSOPEMD	PRSOPEMD-10	Linear Cutter Reload Assembly	Production Stapler
+PRSOPEMD	PRSOPEMD-11	Linear Staple with Dial Assembly	Production Stapler
+PRSOPEMD	PRSOPEMD-12	Linear Staple without Dial Assembly	Production Stapler
+PRSOPEMD	PRSOPEMD-13	Operation of microscope for pin verification	Production Stapler
+PRSOPEMD	PRSOPEMD-14	Operation Of Blister Sealing Machine (ME-E3-BS-02)	Production Stapler
+PRSOPEMD	PRSOPEMD-15	Fumigation & Fogger Machine Operation	Production Stapler
+PRSOPEMD	PRSOPEMD-16	Mechanical Closure - product and packing Defects identification	Production Stapler
+PRSOPEMD	PRSOPEMD-17	Operation of Blister Sealing Machine (ME-E3-BS-03 / ME-E3-BS-04)	Production Stapler
+PRSOPEMD	PRSOPEMD-18	Product Defect Identification	Production Stapler
+PRSOPEMD	PRSOPEMD-19	Assembly of the Hemorrhoid Stapler	Production Stapler
+PRSOPEMD	PRSOPEMD-20	Assembly of Skin Stapler for Daman Plant	Production Stapler
+PRSOPEMD	PRSOPEMD-21	Operation of Handle Welding Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-22	Final Assembly of the Hemorrhoid Stapler	Production Stapler
+PRSOPEMD	PRSOPEMD-23	Operation of Blister Sealing Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-24	Fumigation & Fogger Machine Operation at Daman Plant	Production Stapler
+PRSOPEMD	PRSOPEMD-25	Laundry Activites	Production Stapler
+PRSOPEMD	PRSOPEMD-26	Assembly of Circular Stapler	Production Stapler
+PRSOPEMD	PRSOPEMD-27	Operation of Knife Welding Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-28	Final Assembly of the CircularStapler	Production Stapler
+PRSOPEMD	PRSOPEMD-29	Operation of Blister Sealing Machine (ME-E3-BS-05)	Production Stapler
+PRSOPEMD	PRSOPEMD-30	Assembly of Ligating Clip Pin	Production Stapler
+PRSOPEMD	PRSOPEMD-31	Operation of Blister Sealing Machine for Ligating Clip	Production Stapler
+PRSOPEMD	PRSOPEMD-32	Heat Staking Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-33	Ultrasonic Welding Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-34	Blister Sealing Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-35	Procedure for Manual Soldering	Production Stapler
+PRSOPEMD	PRSOPEMD-36	Operation of Blister sealing machine (ME-E3-BS-07)	Production Stapler
+PRSOPEMD	PRSOPEMD-37	Procedure for Pre-Radiation Packing	Production Stapler
+PRSOPEMD	PRSOPEMD-38	Procedure for Handling of the Dosimeter	Production Stapler
+PRSOPEMD	PRSOPEMD-39	In-Process Check of the Circular Stapler & Hemorrhoid Stapler	Production Stapler
+PRSOPEMD	PRSOPEMD-40	Operation of ETO sterilizer ME-E3-EC-02	Production Stapler
+PRSOPEMD	PRSOPEMD-41	Operation of Blister sealing Machine (ME-E3-BS-08)	Production Stapler
+PRSOPEMD	PRSOPEMD-42	Transfer for Semi finished goods from Daman plant to Vapi	Production Stapler
+PRSOPEMD	PRSOPEMD-43	Operation of Automatic Pin loading Machine	Production Stapler
+PRSOPEMD	PRSOPEMD-44	Assembly of Mesic Ultrasonic Shear	Production Stapler
+PRSOPEMD	PRSOPEMD-45	Assembly of Electrosurgical Pencil	Production Stapler
+PRSOPEMD	PRSOPEMD-46	Operation Of Ultrasonic Welding Machine (ME-E3-UW-06	Production Stapler
+PRSOPEMD	PRSOPEMD-47	Operation of band Sealer machine (ME-E3-BA-05)	Production Stapler
+PRSOPEMD	PRSOPEMD-48	Final Assembly of Mirus skin stapler	Production Stapler
+PRSOPEMD	PRSOPEMD-49	Operation of laser marking machine	Production Stapler
+PRSOPEMD	PRSOPEMD-50	Operation of Blister Sealing Machine (ME-E3-BS-09)	Production Stapler
+PRSOPEMD	PRSOPEMD-51	Operation of Blister Sealing Machine (ME-E3-BS-10)	Production Stapler
+PRSOPEMD	PRSOPEMD-52	Operation of Blister Sealing Machine (ME-E3-BS-11 and ME-E3-BS-12)	Production Stapler
+PRSOPEMD	PRSOPEMD-53	Operation of Automatic Pusher loading Machine for Endoscopic reload (ME-E3-AP-03 and ME-E3-AP-04)	Production Stapler
+PRSOPEMD	PRSOPEMD-54	Operation of Automatic Pin loading Machine for Endoscopic reload (ME-E3-PL-06,07,08,09,10)	Production Stapler
+PRSOPEMD	PRSOPEMD-55	Procedure for Bulk Pack Assembly of Mirus Ligating Clips	Production Stapler
+PRSOPEMD	PRSOPEMD-56	Assembly of Monik Disposable Endoscopic Trocar	Production Stapler
+PRSOPEMD	PRSOPEMD-57	Assembly of Endocutter Guns	Production Stapler
+PRSOPEMD	PRSOPEMD-58	Assembly for Mirus endoscopic linear cutter	Production Stapler
+PRSOPIUD	PRSOPIUD-1	Swaging (Cu T 380A)	Production IUD
+PRSOPIUD	PRSOPIUD-2	Winding (Cu T 380A)	Production IUD
+PRSOPIUD	PRSOPIUD-3	Dimpling (Cu T 380A)	Production IUD
+PRSOPIUD	PRSOPIUD-4	Suture tying of wound T (Cu T 380A)	Production IUD
+PRSOPIUD	PRSOPIUD-5	Operation of Pouch filling (Cu T 380A)	Production IUD
+PRSOPIUD	PRSOPIUD-6	Operation of Pouch sealing (Cu T 380A)	Production IUD
+PRSOPIUD	PRSOPIUD-7	Operation of Final packing (Cu T 380A)	Production IUD
+PRSOPIUD	PRSOPIUD-8	Winding of t Frame  (Cu 375, Cu375 sleek, Cu 250 & Cu 250 Sleek)	Production IUD
+PRSOPIUD	PRSOPIUD-9	Suture tying of wound Frame (Cu 375, Cu 375 Sleek, Cu 250 & Cu 250 Sleek)	Production IUD
+PRSOPIUD	PRSOPIUD-10	Pouch filling (Cu 375, Cu 375 Sleek, Cu 250 & Cu 250 Sleek)	Production IUD
+PRSOPIUD	PRSOPIUD-11	Pouch sealing (Cu 375, Cu 375 Sleek, Cu 250 & Cu 250 Sleek)	Production IUD
+PRSOPIUD	PRSOPIUD-12	Final packing (Cu 375, Cu 375 Sleek, Cu 250 & Cu 250 Sleek)	Production IUD
+PRSOPIUD	PRSOPIUD-13	Pre Radiation packing	Production IUD
+PRSOPIUD	PRSOPIUD-14	Cleaning of Containers	Production IUD
+PRSOPIUD	PRSOPIUD-15	Fumigation & Fogger machine operation	Production IUD
+PRSOPIUD	PRSOPIUD-16	Operation of Electronic balance(Essae)	Production IUD
+PRSOPIUD	PRSOPIUD-17	Operation of Electronic balance (Mettler Toledo)	Production IUD
+PRSOPIUD	PRSOPIUD-18	Operation of Vortex mixture ( ME-E3-VX-01)	Production IUD
+PRSOPIUD	PRSOPIUD-19	Operation of Humidity chamber ( ME-E3-HC-01)	Production IUD
+PRSOPIUD	PRSOPIUD-20	Mixing Levonogestral & PDMS	Production IUD
+PFC	PFC-1	IUD - Cu T 380A	Production Flow Charts
+PFC	PFC-2	Intra Uterine Devices – Cu 250, Cu250 Sleek, Cu 375, Cu 375 Sleek	Production Flow Charts
+PFC	PFC-3	Bulk Suture Extrusion – Polyglycolic Acid (PGA)	Production Flow Charts
+PFC	PFC-4	Bulk Suture Extrusion – Polyglactin 910 (PGLA)	Production Flow Charts
+PFC	PFC-5	Endo-Mechanical Closure Devices	Production Flow Charts
+PFC	PFC-6	Hemostats	Production Flow Charts
+PFC	PFC-7	Absorbable Meshes	Production Flow Charts
+PFC	PFC-8	Non-Absorbable Meshes and Fixation Device	Production Flow Charts
+PFC	PFC-9	Bonewax	Production Flow Charts
+PFC	PFC-10	Meril - Umbilical Cotton Tape	Production Flow Charts
+PFC	PFC-11	Tubal Ring	Production Flow Charts
+PFC	PFC-12	Assembly Circular Stapler (Daman Plant)	Production Flow Charts
+PFC	PFC-13	Assembly Hemorrhoid Stapler (Daman Plant)	Production Flow Charts
+PFC	PFC-14	Endocutter (Daman Plant)	Production Flow Charts
+PFC	PFC-15	Ligating Clip (Daman Plant)	Production Flow Charts
+PFC	PFC-16	Linear Stapler Reload with Dial (Daman Plant)	Production Flow Charts
+PFC	PFC-17	Linear Stapler without Dial (Daman Plant)	Production Flow Charts
+PFC	PFC-18	Skin Stapler (Daman and Vapi Plant - MSSP-35)	Production Flow Charts
+PFC	PFC-19	Trocar (Daman Plant)	Production Flow Charts
+PFC	PFC-20	Absorbable Surgical Sutures	Production Flow Charts
+PFC	PFC-21	Non-Absorbable Surgical Sutures	Production Flow Charts
+PFC	PFC-22	Non-Absorbable Surgical Suture - Meristeel	Production Flow Charts
+PFC	PFC-23	Surgical Needle	Production Flow Charts
+PFC	PFC-24	Clutch	Production Flow Charts
+PFC	PFC-25	Catgut Sutures	Production Flow Charts
+PFC	PFC-26	Topical Skin Adhesive	Production Flow Charts
+PFC	PFC-27	Mirus Ligating Clip	Production Flow Charts
+PFC	PFC-28	ri-CORD ePTFE Suture	Production Flow Charts
+PFC	PFC-29	Pinion Knotless Suture	Production Flow Charts
+PFC	PFC-30	Antibacterial Monofilament Suture	Production Flow Charts
+PFC	PFC-31	Primary sealing process in 6UP packaging	Production Flow Charts
+PFC	PFC-32	Filaprop 3D Mesh MFG	Production Flow Charts
+PFC	PFC-34	Myclip / Mirus™ Polymer Ligating Clip	Production Flow Charts
+PFC	PFC-35	Bulk Suture Extrusion – Triclosan-coated PGA	Production Flow Charts
+PFC	PFC-36	Bulk Suture Extrusion – Triclosan-coated PGLA	Production Flow Charts
+PFC	PFC-37	Skin Stapler	Production Flow Charts
+PFC	PFC-38	Partially Absorbable Mesh and Fixation Device	Production Flow Charts
+PFC	PFC-39	Mirus Ligating Clip - VMLT	Production Flow Charts
+PFC	PFC-40	ITack	Production Flow Charts
+PFC	PFC-41	Fiona and Erinna HIUD	Production Flow Charts
+PFC	PFC-42	In-house Merineum Mesh	Production Flow Charts
+PFC	PFC-43	Eliro Disposable Trocar	Production Flow Charts
+PFC	PFC-44	Antibacterial Pinion Suture	Production Flow Charts
+PFC	PFC-45	Mesic Electrosurgical Pencil	Production Flow Charts
+PFC	PFC-46	Mesic Ultrasonic Shear	Production Flow Charts
+UTSOP	UTSOP-1	Preventive maintenance of Utility equipments	Utility
+UTSOP	UTSOP-2	Preventive and breakdown maintenance of machine	Utility
+UTSOP	UTSOP-3	Transformer Maintenance	Utility
+UTSOP	UTSOP-4	APFC Panel maintenance	Utility
+UTSOP	UTSOP-5	DG set operation & maintenance	Utility
+UTSOP	UTSOP-6	Power Failure and power change over system	Utility
+UTSOP	UTSOP-7	UPS maintenance	Utility
+UTSOP	UTSOP-8	Earth Pit Maintenance	Utility
+UTSOP	UTSOP-9	MCC maintenance	Utility
+UTSOP	UTSOP-10	MLTP Maintenance	Utility
+UTSOP	UTSOP-11	PCC panel maintenance	Utility
+UTSOP	UTSOP-12	Stabilizer maintenance	Utility
+UTSOP	UTSOP-13	Calibration of Equipmemt /Instrument	Utility
+UTSOP	UTSOP-14	Procedure for Filter Cleaning of AHU/Dehumidifier/CAC/FA/EX	Utility
+UTSOP	UTSOP-15	Building management system	Utility
+UTSOP	UTSOP-16	Tank cleaning	Utility
+UTSOP	UTSOP-17	Operation & Maintenance of Nitrogen plant	Utility
+UTSOP	UTSOP-18	Operation & Maintenance of RO plant	Utility
+UTSOP	UTSOP-19	Operation & Maintenance of Air Compressor	Utility
+UTSOP	UTSOP-20	Operation & Maintenance of Steam Generator	Utility
+UTSOP	UTSOP-21	Loft cleaning	Utility
+UTSOP	UTSOP-22	HVAC Validation	Utility
+UTSOP	UTSOP-23	Operation & maintenance of Chiller	Utility
+UTSOP	UTSOP-24	Breakdown maintenance	Utility
+UTSOP	UTSOP-25	Operation & maintenance of Pump	Utility
+UTSOP	UTSOP-26	Operation & maintenance of Cooling Tower	Utility
+UTSOP	UTSOP-27	Installation, Qualification and Replacement of Hepa filter	Utility
+UTSOP	UTSOP-28	SOP For Testing of Fire alarms system	Utility
+UTSOP	UTSOP-29	Procedure for Codification of Equipment ID / Instrument ID	Utility
+UTSOPC	UTSOPC-1	Preventive Maintenance Handling	Utility
+UTSOPC	UTSOPC-2	Preventive Maintenance of Injection Moulding Machine	Utility
+UTSOPC	UTSOPC-3	Breakdown Maintenance Handling	Utility
+UTSOPC	UTSOPC-4	Preventive Maintenance of Utility Equipments	Utility
+UTSOPC	UTSOPC-5	Breakdown Maintenance & Contingency Plan of Utility Equipments	Utility
+UTSOPC	UTSOPC-6	Tank Cleaning	Utility
+UTSOPC	UTSOPC-7	Operation and Maintenance of R.O. Plant	Utility
+UTSOPC	UTSOPC-8	Operation and Maintenance of Chilling Plant	Utility
+UTSOPC	UTSOPC-9	DG Set Operation and Maintenance	Utility
+UTSOPC	UTSOPC-10	Operation and Maintenance of Air Compressor	Utility
+UTSOPC	UTSOPC-11	Operation and Maintenance of Pump	Utility
+UTSOPC	UTSOPC-12	Operation and Maintenance of Cooling Tower	Utility
+UTSOPC	UTSOPC-13	Operation and Maintenance of Softener Plant	Utility
+UTSOPC	UTSOPC-14	HVAC Validation	Utility
+UTSOPC	UTSOPC-15	Installation, Qualification, and Replacement of HEPA Filter	Utility
+UTSOPC	UTSOPC-16	Preventive Maintenance of Equipment and Machines	Utility
+UTSOPC	UTSOPC-17	Earth Pit Maintenance	Utility
+UTSOPC	UTSOPC-18	Power Failure and Power Changeover System	Utility
+UTSOPC	UTSOPC-19	Preventive Maintenance – Daman Plant Equipment/Instruments/Machines	Utility
+UTSOPC	UTSOPC-20	Operation & Maintenance of Instruments in QC Laboratory	Utility
+UTSOPC	UTSOPC-21	Preventive Maintenance – General Equipment/Instruments/Machines	Utility
+UTSOPC	UTSOPC-22	Building Maintenance System	Utility
+UTSOPC	UTSOPC-23	Breakdown Maintenance Handling – New Building	Utility
+UTSOPC	UTSOPC-24	Maintenance of QC Lab Equipment/Instrument – New Building	Utility
+UTSOPC	UTSOPC-25	Preventive Maintenance – Machines/Equipment/Instruments – New Building	Utility
+UTSOPC	UTSOPC-26	Preventive Maintenance – Absorbable Gelatin Sponge Area	Utility
+UTSOPC	UTSOPC-27	Breakdown Maintenance – Absorbable Gelatin Sponge Area	Utility
+UTSOPC	UTSOPC-28	Preventive Maintenance – EMD Expansion Area Equipment & Instruments	Utility
+STSOP	STSOP-1	Material receipt & Issue	Stores
+STSOP	STSOP-2	Operation of Weighing Balance	Stores
+STSOP	STSOP-3	Operation of Vacuum Cleaner	Stores
+STSOP	STSOP-4	SOP Dedusting of incoming material	Stores
+STSOP	STSOP-5	Disposal of rejected material	Stores
+STSOP	STSOP-6	RM / PM Due for Re-Testing	Stores
+STSOP	STSOP-7	Operation of Vacuum Cleaner	Stores
+STSOP	STSOP-8	Raw Material Sent for Jobwork	Stores
+STSOP	STSOP-9	Cleaning, Operation and Usage of Deep Freezer	Stores
+STSOP	STSOP-10	Operation of Vacuum Cleaner for Daman Plant	Stores
+STSOP	STSOP-11	Raw Material Sent for Jobwork for Daman Plant	Stores
+STSOP	STSOP-12	Storage of Raw Material, Packing Material, In-Process & Finished Goods	Stores
+SCSOP	SCSOP-1	Order Processing and Dispatch of Finished Goods	Supply Chain
+SCSOP	SCSOP-2	Handling of Return Material	Supply Chain
+SCSOP	SCSOP-3	Receipt of Finished Goods	Supply Chain
+SCSOP	SCSOP-4	Handling of Expired Material	Supply Chain
+SCSOP	SCSOP-5	Forecasting – Demand Planning and Supply Plan Process	Supply Chain
+SCSOP	SCSOP-6	Procedure for Creation of BOM (Bill of Material)	Supply Chain
+SCSOP	SCSOP-8	Batch Card Printing & Issuance for Endo Mechanical Devices	Supply Chain
+SCSOP	SCSOP-7	Procedure for Creation of Batch Card Printing & Issuance	Supply Chain
+Category	Document Number	Document Title	Department
+QMM	QMM-1	Quality Manual	QMS 
+SMF	SMF-1	Site Master File	QMS 
+PROC	PROC-1	Change Control	QMS 
+PROC	PROC-2	Control of Quality Records	QMS 
+PROC	PROC-3	Management review meeting	QMS 
+PROC	PROC-4	Internal Quality Audit	QMS 
+PROC	PROC-5	Control of Inspection, measuring & test Equipments	QMS 
+PROC	PROC-6	Health Hygiene & Environment Monitoring	QMS 
+PROC	PROC-7	Control of Supplier & Outsource Processes	QMS 
+PROC	PROC-8	Corrective & Preventive Action	QMS 
+PROC	PROC-9	Training	QMS 
+PROC	PROC-10	Control of Non Conforming Product	QMS 
+PROC	PROC-11	Product Identification, Traceability, Handling, Storage & Preservation	QMS 
+PROC	PROC-12	Analysis of Data	QMS 
+PROC	PROC-13	Design & Development	QMS 
+PROC	PROC-14	Risk Management	QMS 
+PROC	PROC-15	Sterilization Validation	QMS 
+PROC	PROC-16	Inspection & Testing of Incoming & Finished Product	QMS 
+PROC	PROC-17	Medical Device Vigilance System - EEA, Switzerland & Turkey	QMS 
+PROC	PROC-18	Field Safety Notice / Advisory Notice	QMS 
+PROC	PROC-19	Customer Complaint Handling - Other than USA	QMS 
+PROC	PROC-20	Customer Feedback	QMS 
+PROC	PROC-21	Product Recall	QMS 
+PROC	PROC-22	Sales & Order Execution	QMS 
+PROC	PROC-23	Validation	QMS 
+PROC	PROC-24	Customer Property Handling	QMS 
+PROC	PROC-25	Recruitment	QMS 
+PROC	PROC-26	Post Market Surveillance System	QMS 
+PROC	PROC-27	Change Notification	QMS 
+PROC	PROC-28	Clinical Evaluation	QMS 
+PROC	PROC-29	MDVS India & Other Countries	QMS 
+PROC	PROC-30	Customer Complaint Handling – USA Market	QMS 
+PROC	PROC-31	Medical Device Reporting - USA	QMS 
+PROC	PROC-32	Product Recall - USA	QMS 
+PROC	PROC-33	AE / Malfunction Reporting to DMAH Japan	QMS 
+PROC	PROC-34	Translation	QMS 
+PROC	PROC-35	Summary of Safety and Clinical Performance	QMS 
+PROC	PROC-36	MDVS - Taiwan	QMS 
+PROC	PROC-37	Usability Engineering	QMS 
+PROC	PROC-38	Technical Documentation	QMS 
+PROC	PROC-39	Document Control	QMS 
+PROC	PROC-40	Medical Examination	QMS 
+PROC	PROC-41	Sampling Plan for Process Validation	QMS 
+PROC	PROC-42	Software Validation	QMS 
+PROC	PROC-43	Regulatory Strategy	QMS 
+PROC	PROC-44	PRRC	QMS 
+PROC	PROC-45	UDI Implementation	QMS 
+PROC	PROC-46	CE Marking	QMS 
+PROC	PROC-47	Brochure and Website Control	QMS 
+PROC	PROC-48	Selection and Evaluation of Distributors	QMS 
+PROC	PROC-49	Recall - Taiwan	QMS 
+PROC	PROC-50	Recall - Other Countries	QMS 
+PROC	PROC-51	MDVS in Australia, Canada, Japan and Brazil	QMS 
+PROC	PROC-52	Global Medical Device Registration	QMS 
+PROC	PROC-53	Server Administration Settings of Matrix Software	QMS 
+QASOP	QASOP-1	Numbering system for Machines & Equipments	Quality Assurance
+QASOP	QASOP-2	Calibration system	Quality Assurance
+QASOP	QASOP-3	Batch Record Review	Quality Assurance
+QASOP	QASOP-4	GMP Training	Quality Assurance
+QASOP	QASOP-5	Handling of Deviation	Quality Assurance
+QASOP	QASOP-6	Batch Numbering System for Finished Product	Quality Assurance
+QASOP	QASOP-7	Evaluation & Assessment of Data	Quality Assurance
+QASOP	QASOP-8	Destruction of Materials	Quality Assurance
+QASOP	QASOP-9	Handling of Artwork	Quality Assurance
+QASOP	QASOP-10	Finished Good Batch Release	Quality Assurance
+QASOP	QASOP-11	Handling of Control Samples	Quality Assurance
+QASOP	QASOP-12	Complaint Registration and Investigation	Quality Assurance
+QASOP	QASOP-14	Line Clearance	Quality Assurance
+QASOP	QASOP-15	Restricted Use (Password Protected) System	Quality Assurance
+QASOP	QASOP-16	Rework and Reprocess Procedure	Quality Assurance
+QASOP	QASOP-18	Stability Study	Quality Assurance
+QASOP	QASOP-19	Pest Control	Quality Assurance
+QASOP	QASOP-20	Administrative/User Access Control of eBMR	Quality Assurance
+QASOP	QASOP-21	Managing e-IFUs in Backend	Quality Assurance
+QASOP	QASOP-22	Roles and Responsibilities - eIFU	Quality Assurance
+QASOP	QASOP-23	Paper IFU Request Management	Quality Assurance
+RA	RA-1	Manufacturing Licenses	QMS 
+RA	RA-2	List of Products - Quality Manual	QMS 
+RA	RA-3	List of Standards - Quality Manual	QMS 
+RA	RA-5	MR Appointment Letter	QMS 
+RA	RA-6	Quality Policy	QMS 
+RA	RA-7	Organization Chart	QMS 
+RA	RA-9	QMS Process and its Interaction	QMS 
+RA	RA-11	PRRC Appointment Letter	QMS 
+Document Number	Product Name	Category
+DM-1	Merizelle - ORC Haemostats	Product Master
+DM-2	Mitsu PGLA Suture	Product Master
+DM-3	Mitsu FST PGLA Suture	Product Master
+DM-4	Filaxyn PDO Suture	Product Master
+DM-5	Filapron PGCL Suture	Product Master
+DM-37	Megasorb PGA Suture	Product Master
+DM-38	Pinion PDO Knotless Suture	Product Master
+DM-39	Pinion PGA-PCL Knotless Suture	Product Master
+DM-40	Mitsu AB PGLA Suture with Triclosan	Product Master
+DM-43	MERISOFT CHROMIC	Product Master
+DM-44	MERISOFT PLAIN	Product Master
+DM-6	Filasilk - Silk Suture	Product Master
+DM-7	Filamide - Nylon Suture	Product Master
+DM-8	Filaprop - Polypropylene Suture	Product Master
+DM-9	Mericron XL Polyester Suture	Product Master
+DM-33	Meristeel - Stainless Steel Suture	Product Master
+DM-36	ri-cord Suture	Product Master
+DM-41	Mericron XL P Polyester Suture	Product Master
+DM-46	Filaprop P - Polypropylene Suture	Product Master
+Document Number	Document Name	Category	Department
+RMTS-1	2-Diethylaminoethanol (Diethyl ethanolamine)	RMTS	Quality Control
+RMTS-2	Acetic acid Glacial	RMTS	Quality Control
+RMTS-3	Aluminium Sulphate	RMTS	Quality Control
+RMTS-4	Araldite	RMTS	Quality Control
+RMTS-5	Bees Wax	RMTS	Quality Control
+RMTS-6	Hematine S HCK Dye	RMTS	Quality Control
+RMTS-7	Isopropyl Alcohol U.S.P.	RMTS	Quality Control
+RMTS-8	Potassium Dichromate	RMTS	Quality Control
+RMTS-9	Sodium Benzoate I.P.	RMTS	Quality Control
+RMTS-10	Sodium Lauryl Sulphate	RMTS	Quality Control
+RMTS-11	Hexane	RMTS	Quality Control
+RMTS-12	Vitel Polyester Resin 2700	RMTS	Quality Control
+RMTS-13	Xylene Reagent Grade (Sulphur Free)	RMTS	Quality Control
+RMTS-14	SS Needle	RMTS	Quality Control
+RMTS-15	Glycolic acid 70%	RMTS	Quality Control
+RMTS-16	PETG Co polyester 6763	RMTS	Quality Control
+RMTS-17	Braided coated Polyglycolic acid suture	RMTS	Quality Control
+RMTS-18	Braided coated Polyglactin 910 suture	RMTS	Quality Control
+RMTS-19	Monofilament Polydioxanone suture	RMTS	Quality Control
+RMTS-20	Monofilament Polyglecaprone 25 suture	RMTS	Quality Control
+RMTS-21	Monofilament Polypropylene blue suture	RMTS	Quality Control
+RMTS-22	Braided Coated Silk Black suture	RMTS	Quality Control
+RMTS-23	Monofilament Polyamide-6 Black suture	RMTS	Quality Control
+RMTS-24	Braided polyester fibre Suture	RMTS	Quality Control
+RMTS-25	Braided coated polyester suture	RMTS	Quality Control
+RMTS-26	Catgut chromic Suture	RMTS	Quality Control
+RMTS-27	Catgut plain Suture	RMTS	Quality Control
+RMTS-28	Polypropylene Mesh	RMTS	Quality Control
+RMTS-29	Umbilical Cotton Tape	RMTS	Quality Control
+RMTS-30	Iso Propyl Myristate	RMTS	Quality Control
+RMTS-31	Braided coated Polyglycolic acid plus Suture (Chlorhexidine Coated)	RMTS	Quality Control
+RMTS-32	Braided coated Polyglactin 910 plus Suture (Chlorhexidine Coated)	RMTS	Quality Control
+RMTS-33	Loctite Adhesive	RMTS	Quality Control
+RMTS-34	Ethylene Oxide Cylinder/Cartridge	RMTS	Quality Control
+RMTS-35	Polytetrafluoroethylene (PTFE) pledgets	RMTS	Quality Control
+RMTS-36	Monofilament steel wire 316LVM	RMTS	Quality Control
+RMTS-37	Polypropylene mesh soft	RMTS	Quality Control
+RMTS-38	Braided coated polyglycolic acid Rapid suture	RMTS	Quality Control
+RMTS-39	Braided coated polyglactin 910 rapid suture	RMTS	Quality Control
+RMTS-40	Monofilament Polyamide-6/6.6 Blue suture	RMTS	Quality Control
+RMTS-41	Polyester Mesh	RMTS	Quality Control
+RMTS-42	Macropore Polypropylene Mesh 	RMTS	Quality Control
+RMTS-43	Pacing wire	RMTS	Quality Control
+RMTS-44	Oxidized Regenerated cellulose	RMTS	Quality Control
+RMTS-45	Contact gripping mesh fabric	RMTS	Quality Control
+RMTS-46	Monofilament polyvinylidine fluoride blue suture	RMTS	Quality Control
+RMTS-47	Non Absorbable Hernia Mesh Fixation Device	RMTS	Quality Control
+RMTS-48	Absorbable Hernia Mesh Fixation Device	RMTS	Quality Control
+RMTS-49	Composite Mesh	RMTS	Quality Control
+RMTS-50	Sodium Nitrate	RMTS	Quality Control
+RMTS-51	Methylene blue virgin silk suture	RMTS	Quality Control
+RMTS-52	Syltrit 123	RMTS	Quality Control
+RMTS-53	Braided Coated Polyglactin 910 Plus Suture (Triclosan Coated)	RMTS	Quality Control
+RMTS-54	Braided Coated Polyglycolic Acid Plus Suture (Triclosan Coated)	RMTS	Quality Control
+RMTS-55	Polymesh Composite (Absomesh)	RMTS	Quality Control
+RMTS-56	Parafix 3471 Cyanoacrylate Adhessive	RMTS	Quality Control
+RMTS-57	Acetyl tri-n-butyl citrate	RMTS	Quality Control
+RMTS-58	2-Octyl Cyanoacrylate	RMTS	Quality Control
+RMTS-59	N-Butyl Cyanoacrylate	RMTS	Quality Control
+RMTS-60	D & C Violet	RMTS	Quality Control
+RMTS-61	Bovine Serum Albumin	RMTS	Quality Control
+RMTS-62	Glutaraldehyde 10%	RMTS	Quality Control
+RMTS-63	N-Acetyl L-Tryptophan	RMTS	Quality Control
+RMTS-64	Triethanolamine	RMTS	Quality Control
+RMTS-65	Potassium Chloride	RMTS	Quality Control
+RMTS-66	Sodium Chloride	RMTS	Quality Control
+RMTS-67	Sodium Phosphate Dibasic	RMTS	Quality Control
+RMTS-68	ePTFE Suture	RMTS	Quality Control
+RMTS-69	Barbed Suture	RMTS	Quality Control
+RMTS-70	PP 3D Mesh with blue line	RMTS	Quality Control
+RMTS-71	Monofilament Polypropylene pink suture	RMTS	Quality Control
+RMTS-72	Laser Cut PP Mesh	RMTS	Quality Control
+RMTS-73	Top & Bottom Handle for Absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-74	Connector for Absorbable tacker	RMTS	Quality Control
+RMTS-75	Pin for Absorbable Tacker	RMTS	Quality Control
+RMTS-76	SS Inner tube for Absorbable tacker	RMTS	Quality Control
+RMTS-77	SS Outer Tube for Absorbable tacker	RMTS	Quality Control
+RMTS-78	Clamp of motor for Absorbable & Non Absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-79	Switch for Absorbable & Non Absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-80	Self tapping Screw for Absorbable & Non Absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-81	PCB with Motor, LED, Power Cable & Operating Switch for Absorbable & Non Absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-82	Adapter for Absorbable & Non Absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-83	Tack for Absorbable tacker	RMTS	Quality Control
+RMTS-84	Top & Bottom Handle for Non absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-85	Connector for Non absorbable Powered Mesh Fixation Device 	RMTS	Quality Control
+RMTS-86	Tack for Non absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-87	Outer tube with spring for Non absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-88	Inner Rod with Sleeve for Non absorbable Powered Mesh Fixation Device	RMTS	Quality Control
+RMTS-89	Poly L-Lactide Co-Caprolactone	RMTS	Quality Control
+RMTS-90	Dichloromethane	RMTS	Quality Control
+RMTS-91	Ultra High Molecular Weight Polyethylene	RMTS	Quality Control
+PMTS-1	180 GSM Triple Kraft Paper Board Used For Suture Folders	PMTS	Quality Control
+PMTS-2	400 GSM Cyber Excel Coated white board	PMTS	Quality Control
+PMTS-3	Cellophane Wrapper	PMTS	Quality Control
+PMTS-4	Coated Tyvek 2FS	PMTS	Quality Control
+PMTS-5	Dispensor Carton	PMTS	Quality Control
+PMTS-7	Over wrapp Top Component; 25 micron BOPP/150g Poly-adhesive laminate	PMTS	Quality Control
+PMTS-8	Lid For Less Memory Tray	PMTS	Quality Control
+PMTS-9	Aluminium Peelable Bottom Foil	PMTS	Quality Control
+PMTS-10	Aluminium Peelable Top Foil	PMTS	Quality Control
+PMTS-11	Nucrel Top Foil	PMTS	Quality Control
+PMTS-12	Nucrel Bottom Foil	PMTS	Quality Control
+PMTS-13	Less Memory Tray	PMTS	Quality Control
+PMTS-14	Self Adhesive BOPP Tape	PMTS	Quality Control
+PMTS-15	Self Adhesive Tear Tape	PMTS	Quality Control
+PMTS-16	Shipping Units	PMTS	Quality Control
+PMTS-17	Printed paper folder	PMTS	Quality Control
+PMTS-18	Formable polyester film/Copolymer film/ Non-Formable polyester film	PMTS	Quality Control
+PMTS-19	Leaflet for surgical sutures & miscellaneous products	PMTS	Quality Control
+PMTS-20	Heat Sealable BOPP film	PMTS	Quality Control
+PMTS-21	Nylon 6 tube for Filatwine	PMTS	Quality Control
+PMTS-22	Tyvek Pouch for Meril products	PMTS	Quality Control
+PMTS-25	Milky white polyethylene sleeves	PMTS	Quality Control
+PMTS-26	Grid Lacquer paper	PMTS	Quality Control
+PMTS-27	Reel Polystyrene / polypropylene	PMTS	Quality Control
+PMTS-29	Aluminium Printed Peelable Foil Top-component	PMTS	Quality Control
+PMTS-30	Tyvek 1073 B Roll	PMTS	Quality Control
+PMTS-33	Label for Meril product	PMTS	Quality Control
+PMTS-36	300 GSM Folder For Meril Products	PMTS	Quality Control
+PMTS-37	Label for meril THR/TKR kit	PMTS	Quality Control
+PMTS-38	Label for Absomesh	PMTS	Quality Control
+PMTS-39	Kit tray with lid	PMTS	Quality Control
+PMTS-41	Tyvek folder Small/Big	PMTS	Quality Control
+PMTS-42	Transparent Label for Meril Kit Products	PMTS	Quality Control
+PMTS-43	MLC Kit Sleeve	PMTS	Quality Control
+PMTS-46	Label for Meril Pledget	PMTS	Quality Control
+PMTS-47	Aluminium Pouch for Meril Products	PMTS	Quality Control
+PMTS-49	Front & Back Label of Dispenser Carton (US Market)	PMTS	Quality Control
+PMTS-51	Foam 	PMTS	Quality Control
+PMTS-53	Cassette for Surgical Suture	PMTS	Quality Control
+PMTS-54	Drawer	PMTS	Quality Control
+PMTS-55	Sleeve for Drawer	PMTS	Quality Control
+PMTS-58	Thermal Ribbon	PMTS	Quality Control
+PMTS-59	Coated Tyvek 2 FS	PMTS	Quality Control
+PMTS-60	Silicon Tube	PMTS	Quality Control
+PMTS-61	Silicon Coated Paper	PMTS	Quality Control
+PMTS-62	Polyester Coated Aluminium tube	PMTS	Quality Control
+PMTS-63	Spreader Tip	PMTS	Quality Control
+PMTS-64	Piston for Bioaid	PMTS	Quality Control
+PMTS-65	Cap for Bioaid	PMTS	Quality Control
+PMTS-67	Dual Barrel for Bioaid	PMTS	Quality Control
+PMTS-68	Plunger for Bioaid	PMTS	Quality Control
+PMTS-69	Mixing Tip for Bioaid	PMTS	Quality Control
+PMTS-71	PET A Film Roll	PMTS	Quality Control
+PMTS-72	1073 B Tyvek Paper	PMTS	Quality Control
+PMTS-73	Plastic Tray for Reel	PMTS	Quality Control
+PMTS-74	Blister Tray for Mesh	PMTS	Quality Control
+PMTS-75	White Peel	PMTS	Quality Control
+PMTS-76	Grid Lacquer Pouch	PMTS	Quality Control
+PMTS-77	Type 2 Aluminum Foil	PMTS	Quality Control
+PMTS-78	Reel Type C	PMTS	Quality Control
+PMTS-79	Blister Tray and Cover for 3D mesh	PMTS	Quality Control
+PMTS-80	Blister Tray Tyvek Lid	PMTS	Quality Control
+PMTS-81	1073B coated tyvek pouch	PMTS	Quality Control
+PMTS-82	Blister Tray for i-Tacker	PMTS	Quality Control
+PMTS-83	Tyvek -I TACK	PMTS	Quality Control
+PMTS-84	Blister Tray for Merineum Mesh	PMTS	Quality Control
+PMTS-85	Tyvek Lid for Merineum Mesh	PMTS	Quality Control
+PMTS-86	Aluminum Pouch for Merineum mesh	PMTS	Quality Control
+PMTS-87	Topical Skin Adhesive tube Applicator	PMTS	Quality Control
+PMTS-88	1073B Uncoated Tyvek Pouch	PMTS	Quality Control
+PMTS-89	Less Memory Tray - Medium	PMTS	Quality Control
+PMTS-90	Lid for Less Memory Tray - Medium	PMTS	Quality Control
+FGTS-1	Finished Goods Specification - Megasorb	FGTS	Quality Control
+FGTS-2	Megasorb T+	FGTS	Quality Control
+FGTS-3	Megasorb Rapid	FGTS	Quality Control
+FGTS-5	Finished Goods Specification – Mitsu AB	FGTS	Quality Control
+FGTS-7	Finished Goods Specification - Filapron	FGTS	Quality Control
+FGTS-8	Finished Goods Specification - Filaxyn	FGTS	Quality Control
+FGTS-9	Finished Goods Specification - Filaprop	FGTS	Quality Control
+FGTS-10	Finished Goods Specification - Filamide	FGTS	Quality Control
+FGTS-11	Finished Goods Specification - Filasilk	FGTS	Quality Control
+FGTS-12	Finished Goods Specification – Mericron XL 	FGTS	Quality Control
+FGTS-13	Finished Goods Specification – Merister Fibre	FGTS	Quality Control
+FGTS-14	Finished Goods Specification - Meristeel	FGTS	Quality Control
+FGTS-15	Finished Goods Specification – Filaprop Mesh	FGTS	Quality Control
+FGTS-16	Finished Goods Specification – Merisoft Plain	FGTS	Quality Control
+FGTS-17	Finished Goods Specification - Merisoft Chromic	FGTS	Quality Control
+FGTS-18	Finished Goods Specification - Filasilk reel	FGTS	Quality Control
+FGTS-19	Finished Goods Specification – Filamide (Non - needled)	FGTS	Quality Control
+FGTS-20	Finished Goods Specification – Filasilk (non - needled)	FGTS	Quality Control
+FGTS-21	Finished Goods Specification – Meril Umbilical Cotton Tape	FGTS	Quality Control
+FGTS-22	Finished Goods Specification – Meril Bone wax	FGTS	Quality Control
+FGTS-23	Finished Goods Specification – Megasorb plus	FGTS	Quality Control
+FGTS-24	Finished Goods Specification – Meglyide plus	FGTS	Quality Control
+FGTS-25	Finished Goods Specification – Mitsu C+	FGTS	Quality Control
+FGTS-26	Finished Goods Specification – Mitsu	FGTS	Quality Control
+FGTS-27	Finished Goods Specification – Mitsu FST	FGTS	Quality Control
+FGTS-28	Finished good specification - Filaprop mesh soft	FGTS	Quality Control
+FGTS-29	Finished good specification - Meril Hernia kit - I	FGTS	Quality Control
+FGTS-30	Finished good specification - Meril Hernia kit - II	FGTS	Quality Control
+FGTS-31	Finished good specification - Meril Hernia kit soft - I	FGTS	Quality Control
+FGTS-32	Finished good specification - Meril Hernia kit soft - II	FGTS	Quality Control
+FGTS-33	Mericron XL P	FGTS	Quality Control
+FGTS-34	Technical spec - Filaprop P	FGTS	Quality Control
+FGTS-35	Meril Caeserean section Kit - I	FGTS	Quality Control
+FGTS-36	Meril Caeserean section Kit - II	FGTS	Quality Control
+FGTS-37	Meril Abdominal Hysterectomy kit	FGTS	Quality Control
+FGTS-38	Filatwine	FGTS	Quality Control
+FGTS-39	Aspiron - Polyglycolic acid	FGTS	Quality Control
+FGTS-40	Aspiron - Polyglactin 910	FGTS	Quality Control
+FGTS-41	Aspiron - Polypropylene blue	FGTS	Quality Control
+FGTS-42	Aspiron polyamide Black	FGTS	Quality Control
+FGTS-43	Aspiron silk Black	FGTS	Quality Control
+FGTS-44	Aspiron Polydioxanone	FGTS	Quality Control
+FGTS-45	Aspiron CATGUT CHROMIC	FGTS	Quality Control
+FGTS-46	Absomesh	FGTS	Quality Control
+FGTS-47	Meril Open Reduction Kit - I	FGTS	Quality Control
+FGTS-48	Meril Open Reduction Suture Kit - II	FGTS	Quality Control
+FGTS-49	Meril THR Suture Kit	FGTS	Quality Control
+FGTS-50	Meril TKR Suture Kit	FGTS	Quality Control
+FGTS-51	Meril CABG kit	FGTS	Quality Control
+FGTS-52	Aspiron - Polyglycolic acid Rapid	FGTS	Quality Control
+FGTS-53	MITSU FST™/ REDISORB FAST®PRO (For US Market)	FGTS	Quality Control
+FGTS-54	Megasorb (For US Market)	FGTS	Quality Control
+FGTS-55	Mitsu, Redisorb Pro (For US Market)	FGTS	Quality Control
+FGTS-56	FILAXYN ™/ REDIDIOX@ PRO (For US Market) 	FGTS	Quality Control
+FGTS-57	Filapron, Redicapron 25 Pro (For US Market)	FGTS	Quality Control
+FGTS-58	Filaprop, Redilene Pro (For US Market)	FGTS	Quality Control
+FGTS-59	Filamide, Redilon Pro (For US Market)	FGTS	Quality Control
+FGTS-60	Finished Goods Specification - Filasilk, Redisilk Pro	FGTS	Quality Control
+FGTS-61	Mericron XL, Redibond Pro (For US Market)	FGTS	Quality Control
+FGTS-62	Aspiron Polyglactin 910 FST	FGTS	Quality Control
+FGTS-63	Aspiron Polyglecaprone 25	FGTS	Quality Control
+FGTS-64	Merizelle Woven	FGTS	Quality Control
+FGTS-65	Merizelle Standard	FGTS	Quality Control
+FGTS-66	Merizelle Fibre	FGTS	Quality Control
+FGTS-67	MERIGROW MESH	FGTS	Quality Control
+FGTS-68	MERICRON 3D Mesh	FGTS	Quality Control
+FGTS-69	Meril Caesarean Section Kit - III	FGTS	Quality Control
+FGTS-70	Aspiron Polyester	FGTS	Quality Control
+FGTS-71	Aspiron Bone wax	FGTS	Quality Control
+FGTS-72	Aspiron Polyglactin 910 C+	FGTS	Quality Control
+FGTS-73	Filadene	FGTS	Quality Control
+FGTS-74	Filapace	FGTS	Quality Control
+FGTS-75	Profound A	FGTS	Quality Control
+FGTS-76	Profound N	FGTS	Quality Control
+FGTS-77	MERINEUM MESH (Gamma Radiation)	FGTS	Quality Control
+FGTS-78	Meril AVR Kit-I	FGTS	Quality Control
+FGTS-79	Meril MVR Kit-I	FGTS	Quality Control
+FGTS-80	Meril ASD Kit	FGTS	Quality Control
+FGTS-81	Meril CABG Kit-II	FGTS	Quality Control
+FGTS-82	Meril CABG Kit-III	FGTS	Quality Control
+FGTS-83	Meril CABG Kit-IV	FGTS	Quality Control
+FGTS-84	Meril Lap Cholesystomy Kit	FGTS	Quality Control
+FGTS-85	Meril Lap Appendectomy Kit	FGTS	Quality Control
+FGTS-86	Meril Pledget	FGTS	Quality Control
+FGTS-87	Meril AVR Kit-II	FGTS	Quality Control
+FGTS-88	Contacto Mesh	FGTS	Quality Control
+FGTS-89	MHR kIt - III	FGTS	Quality Control
+FGTS-90	Meril Hernia kit - IV	FGTS	Quality Control
+FGTS-91	MABLE	FGTS	Quality Control
+FGTS-92	Meril ASD Kit - I	FGTS	Quality Control
+FGTS-93	Meril CABG Kit-V	FGTS	Quality Control
+FGTS-94	Meril MVR Kit-II	FGTS	Quality Control
+FGTS-95	Aspiron Polypropylene mesh	FGTS	Quality Control
+FGTS-96	Meristeel ( US Market)	FGTS	Quality Control
+FGTS-97	Aspiron Meril Hernia Kit	FGTS	Quality Control
+FGTS-98	MERIL CAESAREAN SECTION KIT-IV	FGTS	Quality Control
+FGTS-99	Merifix	FGTS	Quality Control
+FGTS-100	Meriglu Confidential: Meril Endo Surgery Pvt. Ltd. 	FGTS	Quality Control
+FGTS-101	BioAid	FGTS	Quality Control
+FGTS-102	Aspiron Polyglactin 910 AB	FGTS	Quality Control
+FGTS-103	REDIGUT® CHROMIC PRO	FGTS	Quality Control
+FGTS-104	REDIGUT® PLAIN PRO	FGTS	Quality Control
+FGTS-105	MITSU CAS	FGTS	Quality Control
+FGTS-106	Mericron XL CAS	FGTS	Quality Control
+FGTS-107	MERISOFT PLAIN CAS	FGTS	Quality Control
+FGTS-108	MERISOFT Chromic CAS	FGTS	Quality Control
+FGTS-109	Filamide CAS	FGTS	Quality Control
+FGTS-110	Filasilk CAS	FGTS	Quality Control
+FGTS-111	FILAPROP CAS	FGTS	Quality Control
+FGTS-112	Megasorb CAS	FGTS	Quality Control
+FGTS-113	Surgical Bunch	FGTS	Quality Control
+FGTS-116	ri-Cord	FGTS	Quality Control
+FGTS-114	PINION PDO	FGTS	Quality Control
+FGTS-115	PINION PGA-PCL	FGTS	Quality Control
+FGTS-117	Filaprop 3D Mesh	FGTS	Quality Control
+FGTS-118	STERIGLO	FGTS	Quality Control
+FGTS-119	STERISILK (US Market)	FGTS	Quality Control
+FGTS-120	STERILON (US Market)	FGTS	Quality Control
+FGTS-121	STERIPRO (US Market)	FGTS	Quality Control
+FGTS-122	STERICRYL (US market)	FGTS	Quality Control
+FGTS-123	STERIDOX (US market)	FGTS	Quality Control
+FGTS-124	STERISORB QUICK (US market)	FGTS	Quality Control
+FGTS-125	STERISORB (US market)	FGTS	Quality Control
+FGTS-126	STERISORB PLUS	FGTS	Quality Control
+FGTS-127	PROFIVET SUTURE CATGUT PLAIN	FGTS	Quality Control
+FGTS-128	PROFIVET SUTURE CATGUT CHROMIC	FGTS	Quality Control
+FGTS-129	CHROMIC GUT	FGTS	Quality Control
+FGTS-130	Megasorb Safe pull	FGTS	Quality Control
+FGTS-131	Megasorb Rapid Safe Pull	FGTS	Quality Control
+FGTS-132	Filapron Safe Pull	FGTS	Quality Control
+FGTS-133	Filaxyn Safe Pull	FGTS	Quality Control
+FGTS-134	Filaprop Safe Pull	FGTS	Quality Control
+FGTS-135	Filamide Safe Pull	FGTS	Quality Control
+FGTS-136	Filasilk Safe Pull	FGTS	Quality Control
+FGTS-137	MERICRON XL SAFE PULL	FGTS	Quality Control
+FGTS-138	Megasorb Plus (CHA) Safe Pull	FGTS	Quality Control
+FGTS-139	Mitsu AB Safe Pull	FGTS	Quality Control
+FGTS-140	Mitsu C+ Safe Pull	FGTS	Quality Control
+FGTS-141	MITSU™ SAFE PULL	FGTS	Quality Control
+FGTS-142	MITSU FST™ SAFE PULL	FGTS	Quality Control
+FGTS-143	Finished Good technical Specifciation Mitsu FST CAS suture	FGTS	Quality Control
+FGTS-144	Finished Good Technical Specification Mitsu AB CAS suture 	FGTS	Quality Control
+FGTS-145	Meril THR AB KIT -TOTAL HIP REPLACEMENT AB KIT	FGTS	Quality Control
+FGTS-146	Meril TKR AB KIT : TOTAL KNEE REPLACEMENT AB KIT	FGTS	Quality Control
+FGTS-147	Finished Goods Specification- FILAXYN CAS	FGTS	Quality Control
+FGTS-148	MERIL HERNIA KIT SOFT-III	FGTS	Quality Control
+FGTS-149	Finished Good Specification- ANARA	FGTS	Quality Control
+FGTS-150	Finished Good Specification- ARYA FA	FGTS	Quality Control
+FGTS-151	Finished Good Specification- ARYA	FGTS	Quality Control
+FGTS-152	Finished Good Specification- CASERTA	FGTS	Quality Control
+FGTS-153	Finished Good Specification- COMETA	FGTS	Quality Control
+FGTS-154	Finished Good Specification- DECORI	FGTS	Quality Control
+FGTS-155	Finished Good Specification- MELODY	FGTS	Quality Control
+FGTS-156	Finished Good Specification- SOLANA	FGTS	Quality Control
+FGTS-157	i Tack A	FGTS	Quality Control
+FGTS-158	i Tack N	FGTS	Quality Control
+FGTS-159	MHS KIT-5 (MERIL HERNIA KIT SOFT-V)	FGTS	Quality Control
+FGTS-160	MERIL CAESARIAN SECTION KIT VI	FGTS	Quality Control
+FGTS-161	MERINEUM MESH (ETO Sterilized)	FGTS	Quality Control
+FGTS-162	Filaxyn AB	FGTS	Quality Control
+FGTS-163	Filapron AB	FGTS	Quality Control
+FGTS-164	Aspiron UCT	FGTS	Quality Control
+FGTS-165	Filamide (ETO Sterilized)	FGTS	Quality Control
+FGTS-166	Filasilk (ETO Sterilized)	FGTS	Quality Control
+FGTS-167	Aspiron Silk Black (ETO Sterilized)	FGTS	Quality Control
+FGTS-168	Aspiron Polyamide Black (ETO Sterilized)	FGTS	Quality Control
+FGTS-169	Pinion PDO AB	FGTS	Quality Control
+FGTS-170	Pinion PGA-PCL AB	FGTS	Quality Control
+FGTS-171	Finished Goods Specification – Bone wax	FGTS	Quality Control
+QCSOP-1	Operation, Verification and Calibration procedure for Analytical Balance	QCSOP	Quality Control
+QCSOP-2	Bursting Strength Apparatus	QCSOP	Quality Control
+QCSOP-3	Melting point apparatus	QCSOP	Quality Control
+QCSOP-4	Heating mantle	QCSOP	Quality Control
+QCSOP-5	Tensile Testing Machine (INSTRON)	QCSOP	Quality Control
+QCSOP-6	Metler V20 KF Titrator	QCSOP	Quality Control
+QCSOP-9	Vacuum chamber	QCSOP	Quality Control
+QCSOP-10	Bore Depth Guage	QCSOP	Quality Control
+QCSOP-11	Stiffness tester	QCSOP	Quality Control
+QCSOP-12	Dial Gauge	QCSOP	Quality Control
+QCSOP-13	Handling & Storage of Laboratory media & chemical	QCSOP	Quality Control
+QCSOP-14	Reagents & volumetric solutions	QCSOP	Quality Control
+QCSOP-15	FTIR Spectrophotometer	QCSOP	Quality Control
+QCSOP-16	Operation of UV Spectrophotometer	QCSOP	Quality Control
+QCSOP-17	Moisture meter CA – 200	QCSOP	Quality Control
+QCSOP-18	Dial Gauge Calibration	QCSOP	Quality Control
+QCSOP-19	Fume Hood 	QCSOP	Quality Control
+QCSOP-20	Waterbath	QCSOP	Quality Control
+QCSOP-21	Calibration of FTIR	QCSOP	Quality Control
+QCSOP-22	Calibration of UV-VIS Spectrophotometer	QCSOP	Quality Control
+QCSOP-23	Operation of Gas Chromatograph (GC) & Headspace(HSS)	QCSOP	Quality Control
+QCSOP-24	Operation of bond peel tester	QCSOP	Quality Control
+QCSOP-25	Calibration of Tinius olsen	QCSOP	Quality Control
+QCSOP-26	Operation of stability chamber	QCSOP	Quality Control
+QCSOP-27	Walk in type stability chamber	QCSOP	Quality Control
+QCSOP-28	Calibration of GC & Headspace Sampler (HSS)	QCSOP	Quality Control
+QCSOP-29	Tensile Testing Machine (INSTRON MODEL:3343;SYSTEM ID : 3343B13029)	QCSOP	Quality Control
+QCSOP-30	Barcode Scanner	QCSOP	Quality Control
+QCSOP-31	Needle Pull Tester	QCSOP	Quality Control
+QCSOP-32	Needle Tester	QCSOP	Quality Control
+QCSOP-33	Cobb tester Apparatus	QCSOP	Quality Control
+QCSOP-34	Compression strength tester Apparatus	QCSOP	Quality Control
+QCSOP-35	Drop Test Apparatus	QCSOP	Quality Control
+QCSOP-36	Substance Indicator Apparatus	QCSOP	Quality Control
+QCSOP-37	Vibration Tester Apparatus	QCSOP	Quality Control
+QCSOP-38	Weighing Balance Apparatus	QCSOP	Quality Control
+QCSOP-39	Weighing Scale Apparatus	QCSOP	Quality Control
+QCSOP-40	A.R. number Generation	QCSOP	Quality Control
+QCSOP-41	Procedure for In process quality checks	QCSOP	Quality Control
+QCSOP-42	Handling of Out of specification	QCSOP	Quality Control
+QCSOP-43	Handling of Chemicals	QCSOP	Quality Control
+QCSOP-44	Analysts Qualification	QCSOP	Quality Control
+QCSOP-45	Tensile Testing Machine	QCSOP	Quality Control
+QCSOP-46	Scuff Resistance Tester	QCSOP	Quality Control
+QCSOP-47	Caliper Thickness Gauge	QCSOP	Quality Control
+QCSOP-48	Paper Moisture Indicator	QCSOP	Quality Control
+QCSOP-49	Dosimeter placement and retrieval	QCSOP	Quality Control
+QCSOP-50	Testing & release of Raw & packaging material	QCSOP	Quality Control
+QCSOP-51	Sampling procedure for finished product	QCSOP	Quality Control
+QCSOP-52	Moisture Meter(ME-MMT-04)	QCSOP	Quality Control
+QCSOP-53	Procedure for Cleaning of Glassware	QCSOP	Quality Control
+QCSOP-54	Procedure for Cleaning of Instruments/equipments	QCSOP	Quality Control
+QCSOP-55	Thickness Gauge	QCSOP	Quality Control
+QCSOP-56	Wound closure products i.e. Miscellaneous products	QCSOP	Quality Control
+QCSOP-57	Tensile Testing Machine (INSTRON MODEL: 34SC-1 ; SYSTEM ID : 34SC1B27510)	QCSOP	Quality Control
+QCSOP-58	FTIR Spectrophotometer(IRSpirit-T SrNo.A22416003336CD)	QCSOP	Quality Control
+QCSOP-59	Digital microscope system	QCSOP	Quality Control
+QCSOP-60	Operation of High-performance Liquid Chromatography (Make: Shimdzu)	QCSOP	Quality Control
+QCSOP-61	Operation of METPAQs (eBMR) in Quality Control	QCSOP	Quality Control
+QCSOP-62	Operation of Gas Chromatography (Make: Shimdzu)	QCSOP	Quality Control
+QCSOP-63	Calibration of FTIR Spectrophotometer (IRSpirit-T SrNo.A22416003336CD) 	QCSOP	Quality Control
+QCSOP-64	Procedure for Refractometer	QCSOP	Quality Control
+QCSOP-65	In Process Testing of Ultra High Molecular Weight Polyethylene 	QCSOP	Quality Control
+MICSOP-1	Operation of Laboratory Incubator.	MICSOP	Quality Control
+MICSOP-2	Operation of BOD Incubator.	MICSOP	Quality Control
+MICSOP-3	Cleaning, Operation and Maintenance of Vortex mixer	MICSOP	Quality Control
+MICSOP-4	Cleaning, Operation and Calibration of Colony Counter.	MICSOP	Quality Control
+MICSOP-5	Operation of Laboratory Oven.	MICSOP	Quality Control
+MICSOP-6	Operation of Air sampler	MICSOP	Quality Control
+MICSOP-7	Operation and Cleaning of Fogger Machine	MICSOP	Quality Control
+MICSOP-8	Operation of Microscope.	MICSOP	Quality Control
+MICSOP-9	Operation of Static Pass box.	MICSOP	Quality Control
+MICSOP-10	Operation of Membrane Filtration Assembly.	MICSOP	Quality Control
+MICSOP-11	Disinfectant Preparation	MICSOP	Quality Control
+MICSOP-12	Glassware’s Cleaning and Drying Procedure	MICSOP	Quality Control
+MICSOP-13	Operation of Horizontal Autoclave.	MICSOP	Quality Control
+MICSOP-14	Operation of Vertical Autoclave.	MICSOP	Quality Control
+MICSOP-15	Disposal of used Media, Tested samples and Microbial cultures	MICSOP	Quality Control
+MICSOP-16	Fumigation.	MICSOP	Quality Control
+MICSOP-17	Subculturing and Maintenance of Pure Microbiological Cultures.	MICSOP	Quality Control
+MICSOP-18	Operation and Calibration of Weighing balance	MICSOP	Quality Control
+MICSOP-19	Operating Procedure for pH meter	MICSOP	Quality Control
+MICSOP-20	Media preparation, Culture suspension preparation & Growth Promotion test	MICSOP	Quality Control
+MICSOP-21	Cleaning and Operation of Dry heat Sterilizer	MICSOP	Quality Control
+MICSOP-22	Operation and Cleaning of refrigerator	MICSOP	Quality Control
+MICSOP-23	Product Sterility test area practices	MICSOP	Quality Control
+MICSOP-24	Microbial limit test area practices	MICSOP	Quality Control
+MICSOP-25	Operation and Cleaning of Media Filling Machine	MICSOP	Quality Control
+MICSOP-26	Isolation & Identification of Microorganisms	MICSOP	Quality Control
+MICSOP-27	Controlled Manufacturing Area practices	MICSOP	Quality Control
+MICSOP-28	Dose Verification, Dose Audit and Dose Mapping study	MICSOP	Quality Control
+MICSOP-29	Operation & cleaning of UV cabinet	MICSOP	Quality Control
+MICSOP-30	Operation & cleaning of Rotary shaker	MICSOP	Quality Control
+MICSOP-31	Biological Indicator and Chemical indicator inventory Procedure	MICSOP	Quality Control
+MICSOP-32	Operation and Cleaning Of Evoqua water purifier systems	MICSOP	Quality Control
+MICSOP-33	Analytical Report and Document Numbering System	MICSOP	Quality Control
+MICSOP-34	Temperature Mapping	MICSOP	Quality Control
+MICSOP-35	Requalification of steam sterilizer (Autoclave)	MICSOP	Quality Control
+MICSOP-36	Media preparation & incubation area practices	MICSOP	Quality Control
+MICSOP-37	Antimicrobial Efficacy test	MICSOP	Quality Control
+MICSOP-38	Cleaning and Operation of Heating Block	MICSOP	Quality Control
+MICSOP-39	Bulk Suture Area Practices	MICSOP	Quality Control
+MICSOP-40	Stapler Manufacturing & Primary Packing Area Practices	MICSOP	Quality Control
+MICSOP-41	Dose Verification, Dose Audit and Dose Mapping Study Procedure	MICSOP	Quality Control
+MICSOP-42	Assembly Area Practices	MICSOP	Quality Control
+MICSOP-43	Moulding Area Practices	MICSOP	Quality Control
+MICSOP-44	HIUS Manufacturing Area Practices	MICSOP	Quality Control
+MICSOP-45	Copper IUD Assembly area practices	MICSOP	Quality Control
+MICSOP-46	Operation of ELx808-Kinetic reader with BIOTEK – ENDOSCAN-V SP1	MICSOP	Quality Control
+MICSOP-47	Safety Practices In Microbiology Laboratory	MICSOP	Quality Control
+MICSOP-48	Dose Verification,Dose Audit and Dose Mapping Study procedure for Endomechanical closure Device Product	MICSOP	Quality Control
+MICSOP-49	Procedure for Cleaning and operation of Hot Plate	MICSOP	Quality Control
+MICSOP-50	Bulk suture area practices (Meril Park-2)	MICSOP	Quality Control
+MICSOP-51	Absorbable Gelatin Sponge Manufacturing Area Practices	MICSOP	Quality Control
+MICSOP-74	Operation, Cleaning and Calibration of PRS 3 Microplate reader with –	MICSOP	Quality Control
+MICSOP-75	Procedure for Dosimeter placement and retrieval of radiation sterilized Endo mechanical closure device products	MICSOP	Quality Control
+MICSOP-2	Microbiology Laboratory Meril Park 2	MICSOP	Quality Control
+MICSOP-52	Operation and Cleaning of Vertical Autoclave	MICSOP	Quality Control
+MICSOP-53	Operation and Cleaning of HPHV Steam Sterilizer	MICSOP	Quality Control
+MICSOP-54	Operation and Cleaning of BOD Incubators	MICSOP	Quality Control
+MICSOP-55	Cleaning, Operation and Maintenance of Vortex mixer	MICSOP	Quality Control
+MICSOP-56	Cleaning, Operation and Calibration of Colony Counter.	MICSOP	Quality Control
+MICSOP-57	Cleaning and Operation of Laboratory Oven	MICSOP	Quality Control
+MICSOP-58	Cleaning and Operation of UV Cabinet	MICSOP	Quality Control
+MICSOP-59	Operation and Cleaning of Fogger Machine	MICSOP	Quality Control
+MICSOP-60	Operation of Microscope.	MICSOP	Quality Control
+MICSOP-61	Operation of Static Pass box.	MICSOP	Quality Control
+MICSOP-62	Cleaning and Operation of Membrane Filtration Assembly	MICSOP	Quality Control
+MICSOP-63	Sterility Area Practices	MICSOP	Quality Control
+MICSOP-64	Micro lab testing area practices	MICSOP	Quality Control
+MICSOP-65	Operation and cleaning of waterbath	MICSOP	Quality Control
+MICSOP-66	Media preparation, Incubation and de-contamination area practices	MICSOP	Quality Control
+MICSOP-67	Cleaning and Operation of Microbiology Pump	MICSOP	Quality Control
+MICSOP-68	Fumigation of Micro Lab and Cleanroom of Manufacturing Area	MICSOP	Quality Control
+MICSOP-69	Cleaning, operation and calibration of media filling machine	MICSOP	Quality Control
+MICSOP-70	Operation and Calibration of Weighing balance	MICSOP	Quality Control
+MICSOP-71	Operating Procedure for pH meter	MICSOP	Quality Control
+MICSOP-72	Cleaning and operation of DHS.	MICSOP	Quality Control
+MICSOP-73	Controlled manufacturing area practices (Cleanroom) 	MICSOP	Quality Control
+QCSTP-1	Aluminium sulphate	QCSTP	Quality Control
+QCSTP-2	Low temperature top & Bottom foil	QCSTP	Quality Control
+QCSTP-3	Collagen suture preserving liquid 	QCSTP	Quality Control
+QCSTP-4	Meril Bone Wax	QCSTP	Quality Control
+QCSTP-5	Inspection of Siliconied needles	QCSTP	Quality Control
+QCSTP-6	Measurement of Grammage	QCSTP	Quality Control
+QCSTP-7	Melting point detection	QCSTP	Quality Control
+QCSTP-8	Determination of moisture in primary foil package	QCSTP	Quality Control
+QCSTP-9	Residue on ligation	QCSTP	Quality Control
+QCSTP-10	Diethyl amino ethanol (DEAE)	QCSTP	Quality Control
+QCSTP-11	Dosimetry for Radiation Sterilized Products	QCSTP	Quality Control
+QCSTP-12	Ethylene oxide	QCSTP	Quality Control
+QCSTP-13	Suture Breakage test for Thermal tipped suture	QCSTP	Quality Control
+QCSTP-14	Grid Lacquer Paper	QCSTP	Quality Control
+QCSTP-15	Breaking strength retention test for synthetic absorbable sutures	QCSTP	Quality Control
+QCSTP-16	Isopropyl alcohol USP	QCSTP	Quality Control
+QCSTP-17	Isopropyl Myristate	QCSTP	Quality Control
+QCSTP-18	Raw Collagen Suture Testing	QCSTP	Quality Control
+QCSTP-19	Formable poly film	QCSTP	Quality Control
+QCSTP-20	Nucrel bottom foil	QCSTP	Quality Control
+QCSTP-21	Nucrel top foil	QCSTP	Quality Control
+QCSTP-22	QC checks for blister foil seal packs	QCSTP	Quality Control
+QCSTP-23	Silicon syltrit - 123	QCSTP	Quality Control
+QCSTP-24	Resin vital polyester	QCSTP	Quality Control
+QCSTP-25	Xylene	QCSTP	Quality Control
+QCSTP-26	White bees wax	QCSTP	Quality Control
+QCSTP-27	Ductility test	QCSTP	Quality Control
+QCSTP-28	Procedure for Testing & release of Surgical sutures & other wound closure products	QCSTP	Quality Control
+QCSTP-29	Vacuum testing	QCSTP	Quality Control
+QCSTP-30	IR spectra	QCSTP	Quality Control
+QCSTP-31	Chlorhexidiene diacetate	QCSTP	Quality Control
+QCSTP-32	Nylon tube	QCSTP	Quality Control
+QCSTP-33	Testing Procedure for Extractable color test & soluble chromium compound test	QCSTP	Quality Control
+QCSTP-34	Hexane	QCSTP	Quality Control
+QCSTP-35	Measurement of dimension for various raw-packaging material	QCSTP	Quality Control
+QCSTP-36	Procedure for Residual Ethylene Oxide , Ethylene Chlorohydrin & Ethylene Glycol Testing	QCSTP	Quality Control
+QCSTP-37	Detecting Seal Leaks in Porous Medical Packaging by Dye Penetrating	QCSTP	Quality Control
+QCSTP-38	Moisture testing of sutures sterilized by Ethylene oxide	QCSTP	Quality Control
+QCSTP-39	Oxidized Regenerated Celluslose	QCSTP	Quality Control
+QCSTP-40	Bursting strength	QCSTP	Quality Control
+QCSTP-41	TAPE TEST	QCSTP	Quality Control
+QCSTP-42	Handling of Reference Standard(RS) and preparation of Working Standard(WS)	QCSTP	Quality Control
+QCSTP-43	Procedure for mesh Testing	QCSTP	Quality Control
+QCSTP-44	Sodium Benzoate IP	QCSTP	Quality Control
+QCSTP-45	Bending Movement(Strength Testing) for Needles 	QCSTP	Quality Control
+QCSTP-46	Sharpness (Penetration Testing) for Needles	QCSTP	Quality Control
+QCSTP-47	Standard test procedure for Topical Skin Adhesive (Merifix/ Meriglu)	QCSTP	Quality Control
+QCSTP-48	Collagen Suture Preserving Liquid(MYCO)	QCSTP	Quality Control
+QCSTP-49	Triethanolamine (TEAE)	QCSTP	Quality Control
+QCSTP-50	Surgical Adhesive - Bioaid	QCSTP	Quality Control
+QCSTP-51	Copper Sulphate Test	QCSTP	Quality Control
+QCSTP-52	Suture Retention Strength Testing	QCSTP	Quality Control
+QCSTP-53	Suture tensile strength testing	QCSTP	Quality Control
+QCSTP-54	Tear Resistance test	QCSTP	Quality Control
+QCSTP-55	Procedure for Merineum Mesh (Composite Mesh)Testing	QCSTP	Quality Control
+QCSTP-56	Testing procedure for electrical Leakage test	QCSTP	Quality Control
+QCSTP-57	Testing procedure for Tack Shear Force	QCSTP	Quality Control
+QCSTP-58	Testing Procedure for fixation force	QCSTP	Quality Control
+QCSTP-59	Procedure for SS Needle Testing 	QCSTP	Quality Control
+MICSTP-1	Microbiological Analysis of water	MICSTP	Quality Control
+MICSTP-2	Bio burden test procedure	MICSTP	Quality Control
+MICSTP-3	Sterility test procedure	MICSTP	Quality Control
+MICSTP-4	Bacterial Endotoxin Test	MICSTP	Quality Control
+MICSTP-5	Bioburden Test Procedure(Endo Mechanical Closure Device)	MICSTP	Quality Control
+MICSTP-6	Sterility Test Procedure (Endo Mechanical Closure Device)	MICSTP	Quality Control
+MICSTP-7	Sterility Test Procedure (IUD)	MICSTP	Quality Control
+MICSTP-8	Bioburden Test Procedure (IUD)	MICSTP	Quality Control
+MICSTP-9	Sterility Test procedure for HIUD products	MICSTP	Quality Control
+Document Number	Document Name	Category	Deparment
+QCSOPEMD-1	Standard Operating Procedure	QCSOPEMD	Quality Control
+QCSOPEMD-1	Operation of Flexibility meter	QCSOPEMD	Quality Control
+QCSOPEMD-2	Operation of Go-no-go Gauge	QCSOPEMD	Quality Control
+QCSOPEMD-3	Operation of Memory Gauge	QCSOPEMD	Quality Control
+QCSOPEMD-4	Operation of Micrometer	QCSOPEMD	Quality Control
+QCSOPEMD-5	Operation of Profile projector	QCSOPEMD	Quality Control
+QCSOPEMD-6	Operation of Vernier Caliper	QCSOPEMD	Quality Control
+QCSOPEMD-7	Calibration of Weighing Balance	QCSOPEMD	Quality Control
+QCSOPEMD-9	Care & Maintenance of Electronic Balance	QCSOPEMD	Quality Control
+QCSOPEMD-11	Operation of pouch integrity test appratus (Leak Test Apparatus)	QCSOPEMD	Quality Control
+QCSOPEMD-12	Operation of Shore Hardness Tester (Durometer)	QCSOPEMD	Quality Control
+QCSOPEMD-13	Operation of High performance liquid chromatography	QCSOPEMD	Quality Control
+QCSOPEMD-15	Operation of ultrasonic bath	QCSOPEMD	Quality Control
+QCSOPEMD-16	Operation of Dissolution Appratus	QCSOPEMD	Quality Control
+QCSOPEMD-18	Calibration of HPLC system	QCSOPEMD	Quality Control
+QCSOPEMD-19	Storage and Handling of Reference Standard	QCSOPEMD	Quality Control
+QCSOPEMD-20	Operation of stability chamber	QCSOPEMD	Quality Control
+QCSOPEMD-21	Operation of Universal Testing Machine for Daman Plant	QCSOPEMD	Quality Control
+QCSOPEMD-23	Operation Of Viscometer	QCSOPEMD	Quality Control
+QCSOPEMD-25	Opreation Of Stereomicroscope	QCSOPEMD	Quality Control
+QCSOPEMD-26	Operation Of Universal Testing Machine (UTM)	QCSOPEMD	Quality Control
+QCSOPEMD-28	Stability Study of Fininshed Product	QCSOPEMD	Quality Control
+QCSOPEMD-31	Operation of Digital Thickness Gauge	QCSOPEMD	Quality Control
+QCSOPEMD-32	Analysts Qualification	QCSOPEMD	Quality Control
+QCSOPEMD-33	Sampling procedure for In-process & Finished Product of HIUD	QCSOPEMD	Quality Control
+QCSOPEMD-34	Operation of Orbital Shaking Incubator	QCSOPEMD	Quality Control
+QCSOPEMD-35	Operation of Moisture Meter	QCSOPEMD	Quality Control
+QCSOPEMD-27	Analytical Reference Numbering System	QCSOPEMD	Quality Control
+QCSOPEMD-8	Operation of Electronic balance	QCSOPEMD	Quality Control
+QCSOPEMD-22	Operation Of IR Thermometer	QCSOPEMD	Quality Control
+QCSOPEMD-10	Operation Hand Driven Wrap Reel Machine	QCSOPEMD	Quality Control
+QCSOPEMD-14	Operation of Hot Air oven	QCSOPEMD	Quality Control
+QCSOPEMD-17	Operation of centrifuge machine	QCSOPEMD	Quality Control
+QCSOPEMD-24	Operation Of pH Meter	QCSOPEMD	Quality Control
+QCSOPEMD-29	Operation Of Dial Gauge	QCSOPEMD	Quality Control
+QCSOPEMD-30	Operation Of Incubator	QCSOPEMD	Quality Control
+QCSOPEMD-36	Operation of Viscometer (Brookfield Ametek)	QCSOPEMD	Quality Control
+QCSOPEMD-37	Operation of Gas Chromatography (Make: Shimdzu)	QCSOPEMD	Quality Control
+QCSOPEMD-38	Calibration of GC & Headspace Sampler (HSS)	QCSOPEMD	Quality Control
+QCSOPEMD-39	Operation of UV Spectrophotometer	QCSOPEMD	Quality Control
+QCSOPEMD-40	Calibration of UV Spectrophotometer 	QCSOPEMD	Quality Control
+QCSOPEMD-41	Operation Of Universal Testing Machine (Make: Hemtech)	QCSOPEMD	Quality Control
+QCSTPEMD-1	Incoming Inspection Of packing material	QCSTPEMD	Quality Control
+QCSTPEMD-2	Blister tray seal strength	QCSTPEMD	Quality Control
+QCSTPEMD-3	In Process Checks - Mirus Skin Stapler	QCSTPEMD	Quality Control
+QCSTPEMD-4	Finished Good for Endo Mechanical Closure Devices	QCSTPEMD	Quality Control
+QCSTPEMD-5	In Process Quality Check- Endo Mechanical Closure Devices	QCSTPEMD	Quality Control
+QCSTPEMD-6	Blister Tray Seal Strength for Daman plant	QCSTPEMD	Quality Control
+QCSTPEMD-7	In-Process Quality Check – Endo Mechanical Closure Devices for Daman Plant	QCSTPEMD	Quality Control
+QCSTPEMD-8	Incoming Inspection of Raw Materials for Endo Mechanical Closure Devices	QCSTPEMD	Quality Control
+QCSTPEMD-9	Pouch Peel Seal Strength.	QCSTPEMD	Quality Control
+QCSTPEMD-10	Dosimetry for Radiation Sterilized Products. 	QCSTPEMD	Quality Control
+QCSTPIUD-1	Incoming Inspection – Copper collar – Cu T 380 A	QCSTPIUD	Quality Control
+QCSTPIUD-2	Incoming Inspection – Copper wire – Cu T 380 A	QCSTPIUD	Quality Control
+QCSTPIUD-3	Incoming Inspection – Flange – Cu T 380 A	QCSTPIUD	Quality Control
+QCSTPIUD-4	Incoming Inspection – Insertion tube	QCSTPIUD	Quality Control
+QCSTPIUD-5	Incoming Inspection – Solid rod – Cu T 380 A	QCSTPIUD	Quality Control
+QCSTPIUD-6	Incoming Inspection – Suture – Cu T 380 A	QCSTPIUD	Quality Control
+QCSTPIUD-7	Incoming Inspection of T frame for Cu T 380 A	QCSTPIUD	Quality Control
+QCSTPIUD-8	In – process Quality test for Cu T 380 A winding	QCSTPIUD	Quality Control
+QCSTPIUD-9	In – process Quality test for Cu T 380 A Dimpling	QCSTPIUD	Quality Control
+QCSTPIUD-10	In – process Quality test for Cu T 380 A Swaging	QCSTPIUD	Quality Control
+QCSTPIUD-11	In – process Quality test to check Suture tying of IUD & HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-12	In – process Quality test for Cu T 380 A pouch filling	QCSTPIUD	Quality Control
+QCSTPIUD-13	Copper collar displacement force	QCSTPIUD	Quality Control
+QCSTPIUD-14	Diameter of copper collar	QCSTPIUD	Quality Control
+QCSTPIUD-15	Copper collar position	QCSTPIUD	Quality Control
+QCSTPIUD-16	Amount of Cu wire on T frame	QCSTPIUD	Quality Control
+QCSTPIUD-17	Flange displacement force	QCSTPIUD	Quality Control
+QCSTPIUD-18	Length of tie	QCSTPIUD	Quality Control
+QCSTPIUD-19	T Frame breaking strength	QCSTPIUD	Quality Control
+QCSTPIUD-20	Tie strength - UTM	QCSTPIUD	Quality Control
+QCSTPIUD-21	Incoming Inspection of Frames & Sleek frames	QCSTPIUD	Quality Control
+QCSTPIUD-22	In – process Quality test for Cu 375 - winding	QCSTPIUD	Quality Control
+QCSTPIUD-23	In – process Quality test for Cu 375 - pouch filling	QCSTPIUD	Quality Control
+QCSTPIUD-24	In – process Quality test for Cu 375 - Pre radiation packing	QCSTPIUD	Quality Control
+QCSTPIUD-25	In – process Quality test for Cu 375 - Final Packing	QCSTPIUD	Quality Control
+QCSTPIUD-26	Inprocess Quality test for pouch sealing	QCSTPIUD	Quality Control
+QCSTPIUD-27	Incoming inspection of pouches	QCSTPIUD	Quality Control
+QCSTPIUD-28	Incoming inspection of outer tube - HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-29	Incoming inspection of Silicon Elastomer - HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-30	Incoming inspection of T Frame - HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-31	Analysis of Levonrgestral as per Indian pharmacopeia 	QCSTPIUD	Quality Control
+QCSTPIUD-32	Determination of Release rate of Levonogestral by using Dissolution test appratus - HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-33	Inprocess Quality test - Hormonal reservior preparation HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-34	Analysis of total drug content from Hormonal reservior	QCSTPIUD	Quality Control
+QCSTPIUD-35	Pouch Peel Strength	QCSTPIUD	Quality Control
+QCSTPIUD-36	Re-testing of Raw Materials of IUDs	QCSTPIUD	Quality Control
+QCSTPIUD-37	Residual Solvent by GC ( cyclohexane)	QCSTPIUD	Quality Control
+QCSTPIUD-38	Related Substance Analysis by HPLC	QCSTPIUD	Quality Control
+QCSTPIUD-39	Pouch Integrity Test for Erinna HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-40	Tray Peel Open Strength Test for Fiona HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-41	Determination of LNG content in drug-polymer Mixture by UV Spectrophotometer	QCSTPIUD	Quality Control
+QCSTPIUD-42	Preparation & Handling of Working Standard	QCSTPIUD	Quality Control
+QCSTPIUD-43	Incoming inspection of packing material	QCSTPIUD	Quality Control
+QCSTPIUD-44	Analysis of Levonrgestral as per USP	QCSTPIUD	Quality Control
+QCSTPIUD-45	Silicon tube Inspection	QCSTPIUD	Quality Control
+QCSTPIUD-46	Tyvek Pouches for Tubal Rinsg	QCSTPIUD	Quality Control
+QCSTPIUD-47	Incoming Inspection of Packing material for Tubal ring	QCSTPIUD	Quality Control
+QCSTPIUD-48	In Process Quality Test Tubal Ring Production	QCSTPIUD	Quality Control
+QCSTPIUD-49	Memory test for HIUS	QCSTPIUD	Quality Control
+QCSTPIUD-50	Performance Test	QCSTPIUD	Quality Control
+QCSTPIUD-51	Pouch Filliing & Sealing HIUD	QCSTPIUD	Quality Control
+QCSTPIUD-52	Package Integrity Test (Dye Penetration Test)	QCSTPIUD	Quality Control
+QCSTPIUD-53	Dimensional Verification Against Technical Specification	QCSTPIUD	Quality Control
+QCSTPIUD-54	Flange Displacement force of CuT380A 	QCSTPIUD	Quality Control
+QCSTPSFE-1	In-process quality inspection - Extruded Yarn	QCSTPSFE	Quality Control
+QCSTPSFE-2	In-Process Quality Check-Braided suture	QCSTPSFE	Quality Control
+QCSTPSFE-3	Determination of Triclosan Content in Coated Suture	QCSTPSFE	Quality Control
+QCSTPSFE-4	Testing Method - aluminum Pouch	QCSTPSFE	Quality Control
+QCSTPSFE-5	Breaking strength retention test (In Vitro test) for absorbable synthetic surgical suture	QCSTPSFE	Quality Control
+QCSTPSFE-6	Residual solvent by GC (DCM)	QCSTPSFE	Quality Control
+QCSTPSFE-7	Final Inspection- Absorbable Synthetic Surgical Suture	QCSTPSFE	Quality Control
+QCSTPSFE-8	Determination of Triclosan release from coated suture by HPLC	QCSTPSFE	Quality Control
+QCSTPSFE-9	Preparation & Handling of Working Standard	QCSTPSFE	Quality Control
+QCSTPSFE-10	Determination of Related Substances for coated suture by GC	QCSTPSFE	Quality Control
+QCSTPSFE-11	Analysis of Triclosan USP	QCSTPSFE	Quality Control
+QCSTPSFE-12	Residual solvent testing by Loss on Drying	QCSTPSFE	Quality Control
+QCSTPSFE-13	Viscosity of coating solution	QCSTPSFE	Quality Control
+RMTSSTA-1	O - Ring	RMTSSTA	Quality Control
+RMTSSTA-2	PVC Tube	RMTSSTA	Quality Control
+RMTSSTA-3	Satin Ribbon	RMTSSTA	Quality Control
+RMTSSTA-4	Socks 	RMTSSTA	Quality Control
+RMTSSTA-5	Measure Tape	RMTSSTA	Quality Control
+RMTSSTA-6	Inspection Of Incoming Sterile Staplers	RMTSSTA	Quality Control
+RMTSSTA-7	Circular Stapler without Reload and Anvil	RMTSSTA	Quality Control
+RMTSSTA-8	Curved Cutter Reload	RMTSSTA	Quality Control
+RMTSSTA-9	Endocutter Reload	RMTSSTA	Quality Control
+RMTSSTA-10	Linear Stapler With Dial Reload	RMTSSTA	Quality Control
+RMTSSTA-11	Hemorrhoid Stapler without Reload	RMTSSTA	Quality Control
+RMTSSTA-12	Lower Plastic Case (Firing Handle) for Skin Stapler	RMTSSTA	Quality Control
+RMTSSTA-13	Main Plastic Handle for Skin Stapler	RMTSSTA	Quality Control
+RMTSSTA-14	Nail Storage Bin (Pin Holder) for Skin Stapler	RMTSSTA	Quality Control
+RMTSSTA-15	Ligating Clip Cartridge	RMTSSTA	Quality Control
+RMTSSTA-16	Titanium Ligating Clip	RMTSSTA	Quality Control
+RMTSSTA-17	Plastic Anal Dilator of Hemorrhoid (PPH)Stapler	RMTSSTA	Quality Control
+RMTSSTA-18	Plastic Protective Cover for Circular & Hemorrhoid (PPH) Stapler	RMTSSTA	Quality Control
+RMTSSTA-19	Plastic Threader for Hemorrhoid (PPH) Stapler	RMTSSTA	Quality Control
+RMTSSTA-20	Plastic Transparent Anoscope for Hemorrhoid (PPH) Stapler	RMTSSTA	Quality Control
+RMTSSTA-21	Plastic Sizer Rod for Circular Stapler	RMTSSTA	Quality Control
+RMTSSTA-22	Plastic part of Mirus Linear cutter reload	RMTSSTA	Quality Control
+RMTSSTA-23	Protective cover for linear cutter reload	RMTSSTA	Quality Control
+RMTSSTA-24	Anvil shaft & plastc handle for linear cutter stapler	RMTSSTA	Quality Control
+RMTSSTA-25	Cartridge fixation shaft & plastic handle for linear cutter stapler	RMTSSTA	Quality Control
+RMTSSTA-26	Nail of Mirus Linear cutter reload	RMTSSTA	Quality Control
+RMTSSTA-27	Endoscopic Linear Cutter Without Reload	RMTSSTA	Quality Control
+RMTSSTA-28	Nail pushing part for Endoscopic Linear Cutter Reload	RMTSSTA	Quality Control
+RMTSSTA-29	Nail sliding block for Endoscopic Linear Cutter Reload	RMTSSTA	Quality Control
+RMTSSTA-30	Plastic part for Endoscopic Linear Cutter Reload	RMTSSTA	Quality Control
+RMTSSTA-31	Protective cover for Endoscopic Linear Cutter Reload	RMTSSTA	Quality Control
+RMTSSTA-32	Nail for Endoscopic Linear Cutter Reload	RMTSSTA	Quality Control
+RMTSSTA-33	Nail for Mirus Circular and Hemorrhid Stapler	RMTSSTA	Quality Control
+RMTSSTA-34	Raw material for Linear stapler	RMTSSTA	Quality Control
+RMTSSTA-35	Plastic part for Linear Stapler Reload	RMTSSTA	Quality Control
+RMTSSTA-36	Nail for Linear Stapler Reload	RMTSSTA	Quality Control
+RMTSSTA-37	Raw material for Linear stapler with dial	RMTSSTA	Quality Control
+RMTSSTA-38	LS plastic part for with dial reload	RMTSSTA	Quality Control
+RMTSSTA-39	Nail for Linear Stapler with dial Reload	RMTSSTA	Quality Control
+RMTSSTA-40	Protective cover for linear stapler with dial reload	RMTSSTA	Quality Control
+RMTSSTA-41	Obturator for Disposable Trocar	RMTSSTA	Quality Control
+RMTSSTA-42	Sleeve for disposable Trocar	RMTSSTA	Quality Control
+RMTSSTA-43	Assembly part for Mirus Circular Stapler	RMTSSTA	Quality Control
+RMTSSTA-44	Assembly part for Mirus Hemmorhoid Stapler	RMTSSTA	Quality Control
+RMTSSTA-45	Nail for Assembly Circular & Hemorrhoid (PPH) Stapler	RMTSSTA	Quality Control
+RMTSSTA-46	Plastic Clip for Polymer Ligating Clip	RMTSSTA	Quality Control
+RMTSSTA-47	Plastic Cartridge & Cover for Polymer Ligating Clip	RMTSSTA	Quality Control
+RMTSSTA-48	Powered Endoscopic linear cutter without reload 	RMTSSTA	Quality Control
+RMTSSTA-49	Adapter for Powered Endoscopic linear cutter	RMTSSTA	Quality Control
+RMTSSTA-50	Unlock Key for Powered Endoscopic linear cutter	RMTSSTA	Quality Control
+RMTSSTA-51	Plastic part for Endoscopic linear cutter reload	RMTSSTA	Quality Control
+RMTSSTA-52	Nail for Endoscopic linear cutter reload	RMTSSTA	Quality Control
+RMTSSTA-53	Protective cover for Endoscopic linear cutter reload	RMTSSTA	Quality Control
+RMTSSTA-54	Endoscopic Linear Cutter without Reload (Reach)	RMTSSTA	Quality Control
+RMTSSTA-55	Plastic Part for Endoscopic Linear Cutter Reload (Reach)	RMTSSTA	Quality Control
+RMTSSTA-56	Nail for Endoscopic Linear Cutter Reload (Reach)	RMTSSTA	Quality Control
+RMTSSTA-57	Protective Cover for Endoscopic Linear Cutter Reload (Reach)	RMTSSTA	Quality Control
+RMTSSTA-58	Main Handle for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-59	Firing Handle for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-60	Nail storage bin-1 & 2 for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-61	Nail Feeding apparatus for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-62	Plastic Locking Part for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-63	Nail bin base plate for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-64	Nail Pushing Plate for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-65	Plate Pushing Spring for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-66	Nail Pushing Spring for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-67	Nail for Skin stapler	RMTSSTA	Quality Control
+RMTSSTA-68	Main & Firing handle for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-69	Nail bin for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-70	Pushing plate for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-71	Supporting plate for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-72	Plate pushing spring(PPS) for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-73	Nails(staples) for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-74	Pin pusher for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-75	Nail pushing spring(NPS) for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-76	Spring holding part for skin stapler	RMTSSTA	Quality Control
+RMTSSTA-77	Plastic cartridge V ligating clips	RMTSSTA	Quality Control
+RMTSSTA-78	Plastic cartridge case V ligating clips	RMTSSTA	Quality Control
+RMTSSTA-79	Titanium V ligating clips	RMTSSTA	Quality Control
+RMTSSTA-80	EC - Endoscopic Linear Cutter without reload	RMTSSTA	Quality Control
+RMTSSTA-81	EC Reload - Plastic part	RMTSSTA	Quality Control
+RMTSSTA-82	EC Reload - Nail Pushing Part	RMTSSTA	Quality Control
+RMTSSTA-83	EC Reload - Nail Sliding block	RMTSSTA	Quality Control
+RMTSSTA-84	EC Reload - Nails (Pins)	RMTSSTA	Quality Control
+RMTSSTA-85	EC Reload - Protective cover	RMTSSTA	Quality Control
+RMTSSTA-86	Metallic part for Skin Staple Extractor	RMTSSTA	Quality Control
+RMTSSTA-87	Obturator for Eliro Trocar	RMTSSTA	Quality Control
+RMTSSTA-88	Sleeve for Eliro Trocar	RMTSSTA	Quality Control
+RMTSSTA-89	LC-Cartridge fixation shaft	RMTSSTA	Quality Control
+RMTSSTA-90	LC-Anvil shaft	RMTSSTA	Quality Control
+RMTSSTA-91	LC-Cartridge plastic handle	RMTSSTA	Quality Control
+RMTSSTA-92	LC-Anvil plastic handle 	RMTSSTA	Quality Control
+RMTSSTA-93	Obturator - Eliro Trocar Kit	RMTSSTA	Quality Control
+RMTSSTA-94	Sleeve - Eliro Trocar Kit	RMTSSTA	Quality Control
+RMTSSTA-95	Assembly parts for Mesic Ultrasonic Shear.	RMTSSTA	Quality Control
+RMTSSTA-96	Assembly parts for Mesic Electrosurgical Pencil	RMTSSTA	Quality Control
+RMTSSTA-97	Raw material parts for Circular stapler	RMTSSTA	Quality Control
+RMTSSTA-98	Raw material parts for Hemorrhoid (HS) stapler	RMTSSTA	Quality Control
+RMTSSTA-99	Assembly parts for Disposable Endoscopic Trocar	RMTSSTA	Quality Control
+RMTSSTA-100	Assembly parts for Linear Cutter	RMTSSTA	Quality Control
+RMTSSTA-101	Assembly parts for Endoscopic Linear Cutter 	RMTSSTA	Quality Control
+RMTSIUD-1	Specifications of Outer tube for HIUDs	RMTSIUD	Quality Control
+RMTSIUD-2	Specification of Silicon Elastomer	RMTSIUD	Quality Control
+RMTSIUD-3	Specification of Lenovogestral IP	RMTSIUD	Quality Control
+RMTSIUD-4	Specification of Polydimethylsiloxane (PDMS)	RMTSIUD	Quality Control
+RMTSIUD-5	Specifications for T - Frame for HIUDs	RMTSIUD	Quality Control
+RMTSIUD-6	Specifications of Suture for HIUD (Erina & Fiona)	RMTSIUD	Quality Control
+RMTSIUD-7	Specification for Solid Rod	RMTSIUD	Quality Control
+RMTSIUD-8	Specification for T Frame for Cu T 380A	RMTSIUD	Quality Control
+RMTSIUD-9	Specification for Flanges for Fiona HIUD	RMTSIUD	Quality Control
+RMTSIUD-10	Specification for Handle A & B for Fiona HIUD	RMTSIUD	Quality Control
+RMTSIUD-11	Specification for safety lock for Fiona	RMTSIUD	Quality Control
+RMTSIUD-12	Specification for switch for Fiona	RMTSIUD	Quality Control
+RMTSIUD-13	Specification for inner tube for Fiona	RMTSIUD	Quality Control
+RMTSIUD-14	Specification for HDPE	RMTSIUD	Quality Control
+RMTSIUD-15	Specification for T- Blend (LDPE+ BaSO4)	RMTSIUD	Quality Control
+RMTSIUD-16	Specification for Polypropylene	RMTSIUD	Quality Control
+RMTSIUD-17	Specification for Polyvinyl chloride (PVC)	RMTSIUD	Quality Control
+RMTSIUD-18	Specification for Titanium dioxide (TiO2 )	RMTSIUD	Quality Control
+RMTSIUD-19	Specification for Solid Rod	RMTSIUD	Quality Control
+RMTSIUD-20	Specification for Lenovogestrel USP	RMTSIUD	Quality Control
+RMTSSFE-1	Specification for Triclosan USP	RMTSSFE	Quality Control
+RMTSSFE-2	Calcium stearate	RMTSSFE	Quality Control
+RMTSSFE-3	D & C violet	RMTSSFE	Quality Control
+RMTSSFE-4	Perchloroethylene	RMTSSFE	Quality Control
+RMTSSFE-5	Ethyl Acetate	RMTSSFE	Quality Control
+RMTSSFE-6	Poly L-Lactide/Glycolide (65)(35)	RMTSSFE	Quality Control
+RMTSSFE-7	Poly L-Lactide/Glycolide copolymer (PGLA90/10)	RMTSSFE	Quality Control
+RMTSSFE-8	Polycaprolactone	RMTSSFE	Quality Control
+RMTSSFE-9	Dichloromethane	RMTSSFE	Quality Control
+RMTSSFE-10	Polyglycolic Acid 	RMTSSFE	Quality Control
+PMTSEMD-1	Blister Tray & Tyvek paper for Skin Stapler	PMTSEMD	Quality Control
+PMTSEMD-2	Blister tray & Tyvek paper for Endoscopic linear cutter reload	PMTSEMD	Quality Control
+PMTSEMD-3	Protective Card 	PMTSEMD	Quality Control
+PMTSEMD-4	RI sticker	PMTSEMD	Quality Control
+PMTSEMD-5	Labels for Endo mechanical closure devices	PMTSEMD	Quality Control
+PMTSEMD-6	Outer box for Endo mechanical closure devices	PMTSEMD	Quality Control
+PMTSEMD-7	IFUs for Endo mechanical closure devices	PMTSEMD	Quality Control
+PMTSEMD-8	Blister Tray & Tyvek paper for Ligating Clip	PMTSEMD	Quality Control
+PMTSEMD-9	Blister tray & Tyvek paper for Circular & Hemorrhoid (PPH)stapler	PMTSEMD	Quality Control
+PMTSEMD-10	Blister tray & Tyvek paper for linear cutter reload	PMTSEMD	Quality Control
+PMTSEMD-11	Blister tray & Tyvek paper for linear cutter stapler	PMTSEMD	Quality Control
+PMTSEMD-12	Blister tray & Tyvek paper for Endoscopic Linear Cutter Reload	PMTSEMD	Quality Control
+PMTSEMD-13	Blister tray & Tyvek paper for Endoscopic linear cutter	PMTSEMD	Quality Control
+PMTSEMD-14	Blister tray & Tyvek Paper for Linear stapler	PMTSEMD	Quality Control
+PMTSEMD-15	Blister tray & Tyvek Paper for Linear Stapler Reload	PMTSEMD	Quality Control
+PMTSEMD-16	Blister tray & Tyvek Paper for Linear stapler with dial	PMTSEMD	Quality Control
+PMTSEMD-17	Blister tray & Tyvek Paper for Linear stapler with dial reload	PMTSEMD	Quality Control
+PMTSEMD-18	Blister tray & Tyvek Paper for disposable Trocar	PMTSEMD	Quality Control
+PMTSEMD-19	Blister tray & tyvek paper for Polymer Ligating Clip	PMTSEMD	Quality Control
+PMTSEMD-20	Blister tray & Tyvek paper for Powered Endoscopic linear cutter	PMTSEMD	Quality Control
+PMTSEMD-21	Blister tray & Tyvek Paper for Assembly Circular& Hemorrhoid (PPH) stapler	PMTSEMD	Quality Control
+PMTSEMD-22	Gusseted Pouch for Clutch	PMTSEMD	Quality Control
+PMTSEMD-23	Pouch for Measure Tape	PMTSEMD	Quality Control
+PMTSEMD-24	Blister Tray & Tyvek Paper for Endoscopic Linear Cutter (Reach)	PMTSEMD	Quality Control
+PMTSEMD-25	Blister Tray & Tyvek Paper for Endoscopic Linear Cutter Reload (Reach)	PMTSEMD	Quality Control
+PMTSEMD-26	Blister Tray for Skin stapler	PMTSEMD	Quality Control
+PMTSEMD-27	Tyvek Paper for Skin stapler	PMTSEMD	Quality Control
+PMTSEMD-28	Blister tray(BT) & Tyvek paper (TY) for skin stapler	PMTSEMD	Quality Control
+PMTSEMD-29	Blister tray & Tyvek paper for V ligating clips	PMTSEMD	Quality Control
+PMTSEMD-30	EC - Blister tray & Tyvek paper	PMTSEMD	Quality Control
+PMTSEMD-31	EC Reload - Blister tray & Tyvek paper	PMTSEMD	Quality Control
+PMTSEMD-32	Blister tray & Tyvek paper for Metallic Skin Staple Extractor	PMTSEMD	Quality Control
+PMTSEMD-33	Blister tray & Tyvek paper for Eliro Trocar	PMTSEMD	Quality Control
+PMTSEMD-34	LC-Blister tray & Tyvek paper	PMTSEMD	Quality Control
+PMTSEMD-35	Blister tray & Tyvek paper for Eliro Trocar Kit	PMTSEMD	Quality Control
+PMTSEMD-36	Blister tray & Tyvek paper for Assembly Mesic Ultrasonic Shear	PMTSEMD	Quality Control
+PMTSEMD-37	Pouch for Mesic Electrosurgical Pencil	PMTSEMD	Quality Control
+PMTSEMD-38	Blister tray & Tyvek paper for Circular (CS) & Hemorrhoid (HS) stapler	PMTSEMD	Quality Control
+PMTSEMD-39	Pouch for Mirus Ligating Clip (Bulk) 	PMTSEMD	Quality Control
+PMTSIUD-1	Specification for Label insert for Erina HIUD	PMTSIUD	Quality Control
+PMTSIUD-2	Specification for Shipper for Erina HIUD	PMTSIUD	Quality Control
+PMTSIUD-3	Specification for Inner Carton for Erina HIUD	PMTSIUD	Quality Control
+PMTSIUD-4	Specification for Mono carton for Erina HIUD	PMTSIUD	Quality Control
+PMTSIUD-5	Specification for Tyvek paper for Fiona HIUD	PMTSIUD	Quality Control
+PMTSIUD-6	Specification for Mono carton for Fiona HIUD	PMTSIUD	Quality Control
+PMTSIUD-7	Specification for Blister Tray Label for Fiona 	PMTSIUD	Quality Control
+PMTSIUD-8	Specification for Blister Tray for Fiona HIUD	PMTSIUD	Quality Control
+PMTSIUD-9	Specifications for Instruction for use (IFU) for Erinna	PMTSIUD	Quality Control
+PMTSIUD-10	Specifications for Instruction for use (IFU) for Fiona 	PMTSIUD	Quality Control
+PMTSSFE-1	Polyethylene Laminated Aluminium Pouch 	PMTSSFE	Quality Control
+FGTSEMD-1	Mirus Skin Stapler	FGTSEMD	Quality Control
+FGTSEMD-2	Mirus Circular Stapler	FGTSEMD	Quality Control
+FGTSEMD-3	Mirus Hemorrhoid Stapler	FGTSEMD	Quality Control
+FGTSEMD-4	Curved Cutter Reload	FGTSEMD	Quality Control
+FGTSEMD-5	Mirus Endoscopic Linear cutter Reload	FGTSEMD	Quality Control
+FGTSEMD-6	Mirus Linear Cutter Reload	FGTSEMD	Quality Control
+FGTSEMD-7	Linear Stapler With Dial Reload	FGTSEMD	Quality Control
+FGTSEMD-8	Mirus Linear Stapler Reload	FGTSEMD	Quality Control
+FGTSEMD-9	Sterile Products for EMD	FGTSEMD	Quality Control
+FGTSEMD-10	Mirus Ligating clip	FGTSEMD	Quality Control
+FGTSEMD-11	Mirus Skin Stapler	FGTSEMD	Quality Control
+FGTSEMD-12	Staple extractor	FGTSEMD	Quality Control
+FGTSEMD-13	Mirus Endoscopic Linear Cutter	FGTSEMD	Quality Control
+FGTSEMD-14	Mirus Linear Cutter	FGTSEMD	Quality Control
+FGTSEMD-15	Mirus Linear Stapler	FGTSEMD	Quality Control
+FGTSEMD-16	Linear Stapler with Dial	FGTSEMD	Quality Control
+FGTSEMD-17	VMLT Applicators	FGTSEMD	Quality Control
+FGTSEMD-18	MLT Applicators	FGTSEMD	Quality Control
+FGTSEMD-20	Mirus Powered Endoscopic linear cutter	FGTSEMD	Quality Control
+FGTSEMD-21	Mirus Endoscopic Linear Cutter Reload	FGTSEMD	Quality Control
+FGTSEMD-22	Disposable Endoscopic Trocar	FGTSEMD	Quality Control
+FGTSEMD-23	Clutch - Torniquet Device	FGTSEMD	Quality Control
+FGTSEMD-24	Mirus Ligating clip (US Market)	FGTSEMD	Quality Control
+FGTSEMD-25	Laproscopic Applicators	FGTSEMD	Quality Control
+FGTSEMD-26	Polymer Applicator	FGTSEMD	Quality Control
+FGTSEMD-27	Mirus Endoscopic Linear Cutter (Reach)	FGTSEMD	Quality Control
+FGTSEMD-28	Mirus Endoscopic Linear Cutter Reload (Reach)	FGTSEMD	Quality Control
+FGTSEMD-29	Mirus Circular Stapler (US Market)	FGTSEMD	Quality Control
+FGTSEMD-30	Mirus Hemorrhoid circular stapler (US Market)	FGTSEMD	Quality Control
+FGTSEMD-31	Mirus Linear Cutter Reload (US Market)	FGTSEMD	Quality Control
+FGTSEMD-32	Mirus Linear stapler Reload (US Market)	FGTSEMD	Quality Control
+FGTSEMD-33	Mirus (V) Ligating Clip	FGTSEMD	Quality Control
+FGTSEMD-34	Mirus Endoscopic Linear Cutter (ELC)	FGTSEMD	Quality Control
+FGTSEMD-35	Mirus Endoscopic Linear Cutter Reload (ELCR)	FGTSEMD	Quality Control
+FGTSEMD-19	Mirus Polymer ligating clip / Myclip Polymer Ligating clip	FGTSEMD	Quality Control
+FGTSEMD-36	Mirus Skin Staple Extractor	FGTSEMD	Quality Control
+FGTSEMD-37	Eliro Disposable Endoscopic Trocar	FGTSEMD	Quality Control
+FGTSEMD-38	Mirus Linear Cutter (LC) 	FGTSEMD	Quality Control
+FGTSEMD-39	Eliro Disposable Endoscopic Trocar Kit	FGTSEMD	Quality Control
+FGTSEMD-40	Mesic Ultrasonic Shear.	FGTSEMD	Quality Control
+FGTSEMD-41	Mesic Electrosurgical Pencil	FGTSEMD	Quality Control
+FGTSEMD-42	Mirus Circular Stapler (CS)	FGTSEMD	Quality Control
+FGTSEMD-43	Mirus Hemorrhoid stapler (HS) 	FGTSEMD	Quality Control
+FGTSIUD-1	Finished good specification for Cu 375	FGTSIUD	Quality Control
+FGTSIUD-2	Finished good specification for Cu T 380A	FGTSIUD	Quality Control
+FGTSIUD-3	Specification for Erinna Hormonal Intrauterin System	FGTSIUD	Quality Control
+FGTSIUD-4	Specification for Fiona Hormonal Intrauterin System	FGTSIUD	Quality Control
+FGTSIUD-5	Freedom5 model Cu 375	FGTSIUD	Quality Control
+FGTSIUD-6	Finished good specification for Cu 250 Sleek	FGTSIUD	Quality Control
+FGTSIUD-7	Finished good specification for Cu 250	FGTSIUD	Quality Control
+FGTSIUD-8	Finished good specification for Cu 375 Sleek	FGTSIUD	Quality Control
+FGTSIUD-9	Finished good specification for Cu 380 (MOH) 	FGTSIUD	Quality Control
+FGTSSFE-1	Braided Coated Polyglactin 910 (PGLA-90/10) absorbable Surgical Suture	FGTSSFE	Quality Control
+FGTSSFE-2	Braided Coated Polyglactin 910 Rapid absorbable Surgical Suture	FGTSSFE	Quality Control
+FGTSSFE-3	Braided Coated Polyglycolic acid Rapid absorbable Surgical Suture	FGTSSFE	Quality Control
+FGTSSFE-4	Braided Coated Polyglycolic acid (PGA) absorbable Surgical Suture	FGTSSFE	Quality Control
+FGTSSFE-5	Braided Triclosan Coated Polyglactin910 (PGLA-90/10) antibacterial coated absorbable Surgical Suture	FGTSSFE	Quality Control
+FGTSSFE-6	Braided Triclosan Coated Polyglycolic acid (PGA) antibacterial absorbable Surgical Suture 	FGTSSFE	Quality Control
+QPEMD-1	Sampling Plan - Incoming raw Material	QPEMD	Quality Control
+QPEMD-2	Sampling Plan – Finished product (Endo Mechanical Closure Device)	QPEMD	Quality Control
+QPEMD-3	Sampling Plan – Incoming Packing material	QPEMD	Quality Control
+QPEMD-4	In- Process Quality Check- Endo Mechanical Closure Devices	QPEMD	Quality Control
+QPEMD-5	Sampling Plan - Incoming Material	QPEMD	Quality Control
+QPEMD-6	Sampling Plan - Finished Product	QPEMD	Quality Control
+QPEMD-7	Sampling Plan - Incoming Material Staplers (EMD)	QPEMD	Quality Control
+QPEMD-8	In-process quality plan-EMD for daman plant	QPEMD	Quality Control
+QPEMD-9	Document no. to be given next 	QPEMD	Quality Control
+QPIUD-1	Quality plan - Incoming raw material	QPIUD	Quality Control
+QPIUD-2	Quality plan - In- process testing of Copper T	QPIUD	Quality Control
+QPIUD-3	Sampling plan - Incoming material	QPIUD	Quality Control
+QPIUD-4	Sampling plan - Finished product	QPIUD	Quality Control
+QPIUD-5	Quality plan for incoming packing material for IUDs	QPIUD	Quality Control
+QPIUD-6	Sampling plan - finished product (HIUD)	QPIUD	Quality Control
+QPIUD-7	Quality Plan for Incoming raw & packing material- Tubal Ring	QPIUD	Quality Control
+QPIUD-8	Sampling Plan for Incoming Raw & Packing Material	QPIUD	Quality Control
+QPIUD-9	Quality Plan for In-process Testing of Tubal Ring 	QPIUD	Quality Control
+QPIUD-10	Quality Plan for Finish Good (Tubal Ring)	QPIUD	Quality Control
+QPIUD-11	Sampling Plan for Finish Good (Tubal Ring)	QPIUD	Quality Control
+QPSFE-1	Quality Plan for In- Process Absorbable Synthetic Surgical Suture	QPSFE	Quality Control
+QPSFE-2	Document no to be given next	QPSFE	Quality Control
+QASOPC-1	Cleaning of Area & Equipments	QASOPC	Quality Control
+QASOPC-2	Entry & Exit Procedure for Clean Room (Class 10000 )	QASOPC	Quality Control
+QASOPC-3	Entry and Exit procedure	QASOPC	Quality Control
+QASOPC-4	Material Handling & Exposure to UV light	QASOPC	Quality Control
+QASOPC-5	Handling of in-process rejection Material (IUD)	QASOPC	Quality Control
+QASOPC-6	Labelling, testing & release of raw & packaging material	QASOPC	Quality Control
+QASOPC-7	Batch Numbering System (IUD)	QASOPC	Quality Control
+QASOPC-8	Batch Numbering System (Clutch)	QASOPC	Quality Control
+QASOPC-9	Entry and Exit Procedure to Hormonal IUD - Production Area	QASOPC	Quality Control
+QASOPC-10	Batch Numbering System for HIUDs	QASOPC	Quality Control
+QASOPC-11	Batch Numbering System for Stapler & reloads	QASOPC	Quality Control
+QASOPC-12	Release of Finished Product	QASOPC	Quality Control
+QASOPC-13	Line clearnace	QASOPC	Quality Control
+QASOPC-14	Annual Product Quality Review (APQR)	QASOPC	Quality Control
+QASOPC-15	Management of Printed Packaging Material	QASOPC	Quality Control
+QASOPC-16	Storage of Raw Material, In-Process & Finished Goods	QASOPC	Quality Control
+QASOPC-17	Batch numbering system for loan licence & third party manufacturing product	QASOPC	Quality Control
+QASOPC-18	Batch Numbering System for Intra Uterine Device (IUD) At Daman Plant	QASOPC	Quality Control
+QASOPC-19	Receiving, storage & destruction of control sample	QASOPC	Quality Control
+QASOPC-20	Maintaining equipment/instrument usage logbook	QASOPC	Quality Control
+QASOPC-21	Calibration of measuring & test instruments	QASOPC	Quality Control
+QASOPC-22	Disposal of Rejected and expired Goods	QASOPC	Quality Control
+QASOPC-23	Batch Manufacturing Record Issuance and retrieval	QASOPC	Quality Control
+QASOPC-24	Assigning Identification Number for Machine /Equipment /Instrument	QASOPC	Quality Control
+QASOPC-25	Batch Numbering system- SFE	QASOPC	Quality Control
+QASOPC-26	Entry and Exit in Assembly Room- Daman Plant	QASOPC	Quality Control
+QASOPC-27	Supplier Management for Active Pharmaceutical Ingredients	QASOPC	Quality Control
+QASOPC-28	Batch Manufacturing Record Issuance and retrieval for Meril park 2	QASOPC	Quality Control
+QASOPC-29	"Batch Numbering System for Moulding Products"""	QASOPC	Quality Control
+QASOPC-30	Batch numbering system for Gelatin sponge.	QASOPC	Quality Control
