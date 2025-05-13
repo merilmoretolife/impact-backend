@@ -16,7 +16,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 app = Flask(__name__)
 CORS(app)
 
-def generate_impact_analysis(change_description):
+def generate_impact_analysis(department_input, change_description, product_name):
     prompt = f"""
 You are a regulatory and quality expert helping assess the departmental impact of a change in a medical device company.
 
@@ -26,6 +26,13 @@ A user has described a change below. Based on that input, return department-wise
 === MASTER DOCUMENT LIST ===
 {doc_masterlist_text}
 === END MASTER LIST ===
+
+The product affected is: **{product_name}**. Use this to determine which section (AB or C) the impacted documents belong to.
+- Devices in section C include: Staplers, Trocars (EMD), IUDs, and SFE (Bulk Sutures)
+- Use C-section document codes (like `UTSOPC`, `MICSTPC`, etc.) only when the product falls under these categories.
+
+The department stated by the user is: **{department_input}**. However, you must still assess and show impact for **all 5 departments** (Design, Production, QC, QA, RA), even if only one is mentioned.
+Use the stated department as an additional clue for likely impacted areas.
 
 For each department that is relevant, generate a table with these columns:
 1. Possible Impact Area (row title)
@@ -98,8 +105,11 @@ Respond in Markdown table format, one per department.
 @app.route('/assess', methods=['POST'])
 def assess():
     data = request.get_json()
+    dept_input = data.get('department', '')
     change_input = data.get('change_description', '')
-    report = generate_impact_analysis(change_input)
+    product_input = data.get('product', '')
+    report = generate_impact_analysis(dept_input, change_input, product_input)
+
     return jsonify({
         "report": report,
         "report_filename": f"impact_report_{uuid.uuid4()}.txt"
