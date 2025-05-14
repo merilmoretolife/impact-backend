@@ -11,7 +11,7 @@ with open("Master List EndoSurgery.txt", "r", encoding="utf-8") as f:
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://merilmoretolife.github.io"])
 
 def generate_impact_analysis(department_input, change_description, product_name):
     prompt = f"""
