@@ -90,6 +90,28 @@ The departments and their possible impact areas are:
 Always include all 5 departments (Design, Production, QC, QA, RA), even if they are not impacted. If not impacted, clearly write "No" in the Impact column, and "Not applicable" or "No impact" in the justification column.
 Only list documents **actually** impacted from the master list. If none, write "—".
 
+---
+
+### 🔍 Risk Assessment Summary
+
+Based on the above impact analysis, assess the **risk level** of this change:
+- Identify whether the change affects product quality, safety, regulatory compliance, or key QMS systems and provide identified risks and what mitigation steps will be taken.
+- Consider if re-validation, re-qualification, or re-approval from notified bodies or authorities is likely required.
+- Highlight any need for urgent updates to DMR, technical files, or labeling that would impact traceability or usability.
+
+---
+
+### ⚠️ Impact Type Classification
+
+Classify the change under one of the following impact types:
+
+- **Critical** → Involves product approval, patient safety, regulatory compliance, or fundamental device performance.
+- **Major** → Significant but does not compromise safety or regulatory approval (e.g., supplier change, DMR update, material).
+- **Minor** → Administrative or editorial, no change to safety, performance, or approval status.
+
+Clearly state the **Impact Type** and justification in 2–4 sentences based on your risk summary and impact tables.
+
+
 Change Description:
 \"\"\"{change_description}\"\"\"
 
