@@ -15,31 +15,52 @@ CORS(app, resources={r"/*": {"origins": ["https://merilmoretolife.github.io"]}})
 
 def generate_impact_analysis(department_input, change_description, product_name):
     prompt = f"""
-You are a regulatory and quality expert helping assess the departmental impact of a change in a medical device company.
 
-A user has described a change below. Based on that input, return department-wise impact analysis.
+### Instructions
+You are a regulatory and quality expert analyzing the departmental impact of a change in a medical device company. Follow these steps to generate a structured impact analysis:
+1. **Parse Change Description**: Identify the type of change (e.g., supplier, material, process, equipment), affected component/process, and relevant departments.
+2. **Assess Impacts**: Evaluate impacts across all 5 departments (Design, Production, QC, QA, RA) using predefined impact areas.
+3. **Match Documents**: Select relevant SOPs from the master document list based on keywords, document category, and department relevance.
+4. **Generate Tables**: Create a table for each department with columns: Possible Impact Area, Impact, Documents Impacted, Justification.
+5. **Provide Risk Assessment**: Summarize risks to quality, safety, or compliance, including mitigation steps.
+6. **Classify Impact Type**: Classify as Critical, Major, or Minor with a brief justification.
 
-📂 Use the official document list below to identify exact impacted SOPs:
-=== MASTER DOCUMENT LIST ===
+### Inputs
+- **Product**: {product_name}
+- **Department Mentioned**: {department_input}
+- **Change Description**: {change_description}
+- **Section Logic**:
+  - Section C Products: Staplers, Trocars (EMD), IUDs, SFE (Bulk Sutures) → Use `UTSOPC` documents.
+  - AB Section: All other products → Use `UTSOP` documents.
+  - If unclear, default to AB-section.
+
+### Master Document List
 {doc_masterlist_text}
-=== END MASTER LIST ===
 
-🔹 This list contains document numbers and titles. Match relevant documents using both title keywords and document type/number. Always cite documents in this format:
-**[Document Number] - [Title]**
+### Document Matching Rules
+- Extract keywords from the change description (e.g., "supplier" → "Supplier Control", "applicator" → "Assembly").
+- Match document titles in the master list containing these keywords or synonyms (case-insensitive).
+- Filter by department and category:
+  - QMS: `PROC`, `RA`, 'QMM', 'SMF'
+  - Production: `PRSOP`, `PFC`, 
+  - Store: 'STSOP'
+  - Utility: 'UTSOP'
+  - Supply Chain/SCM: 'SCSOP'
+  - QC: `QCSOP`, `QCSTP`, `PMTS`, 'RMTS', 'FGTS', 'QP'
+  - QA: `QASOP`
+  - Use section logic to select `UTSOPC` or `UTSOP` for relevant products. Same goes for techhnical specification e.g. 'FGTS' for AB section, 'FGTSEMD', 'RMTSSTA' for C section products.
 
-📦 Product affected: **{product_name}**
-Section logic:
-- Devices in section **C**: Staplers, Trocars (EMD), IUDs, SFE (Bulk Sutures)
-- All others → AB section
-Use this to decide document codes (e.g., `UTSOPC` for C-section products, `UTSOP` for AB-section).
+- Cite documents as **[Document Number] - [Title]**. Use "—" if no documents match.
+- Example: For "new supplier for Tyvek pouches," match documents like `QASOP-10 - Supplier Control`.
 
-🧭 Department mentioned: **{department_input}** — use it as a clue, but analyze ALL 5 departments:
+### Department Impact Tables
+For each department, evaluate all listed impact areas. Use this format:
 
 For each department that is relevant, generate a table with these columns:
 1. Possible Impact Area (row title)
 2. Impact → Yes or No
-3. Documents Impacted → Use actual document number and names from the list above if impacted, else write "—"
-4. Justification → Short reason why the document is impacted, or "Not impacted"
+3. Documents Impacted → Document number - Title
+4. Justification → Reason or "No impact"
 
 Use this layout:
 Department: [Department Name]
@@ -87,9 +108,17 @@ The departments and their possible impact areas are:
 - Notification to NBs / Competent Authorities
 - If Other, Please Specify
 
-Always include all 5 departments (Design, Production, QC, QA, RA), even if they are not impacted. If not impacted, clearly write "No" in the Impact column, and "Not applicable" or "No impact" in the justification column.
-Only list documents **actually** impacted from the master list. If none, write "—".
-
+### Justification Guidelines
+- For impacted areas, explain how the change affects the area or document (e.g., "New supplier requires updated supplier control SOP").
+- For non-impacted areas, use "No impact" with a brief reason if applicable (e.g., "No change to sterilization method").
+- Examples:
+  - Change: "New supplier for Tyvek pouches"
+    - Document: **[QASOP-10] - Supplier Control**
+    - Justification: "New supplier requires audit and quality agreement updates."
+  - Change: "New applicator design"
+    - Document: **[PRSOP-56] - Assembly Process**
+    - Justification: "SOP to be revised for new applicator assembly."
+    
 ---
 
 ### 🔍 Risk Assessment Summary
@@ -101,16 +130,43 @@ Based on the above impact analysis, assess the **risk level** of this change:
 
 ---
 
-### ⚠️ Impact Type Classification
+## Impact Type
+- **Critical**: Affects patient safety, performance, or requires notified body approval.
+- **Major**: Significant changes (e.g., material, design) requiring re-validation or DMR updates.
+- **Minor**: Administrative, supplier, or equipment changes with no safety/performance impact.
+- Default to Minor unless safety/regulatory impacts are identified.
+- Provide 2–3 sentences justifying the classification.
 
-Classify the change under one of the following impact types:
+### Example
+**Input**:
+- Product: Mirus Skin Stapler
+- Department: Production
+- Change: "Addition of new automatic pin loading machine."
+**Output**:
+Department: Design
+| Possible Impact Area | Impact | Documents Impacted | Justification |
+|----------------------|--------|---------------------|---------------|
+| Device design, dimensions, and specification | No | — | No impact as machine does not alter design. |
+| Assembly of Components | No | — | No impact. |
+| Change in product Safety & Performance | Yes | — | IQ, OQ, PQ required for machine qualification. |
+| Packaging Type & Sterilization Method | No | — | No impact. |
+| Raw Material, Packaging material, or Components | No | — | No impact. |
+| Others | Yes | — | Preventive maintenance schedule to be updated. |
 
-- **Critical** → Involves product approval, patient safety, regulatory compliance, or fundamental device performance.
-- **Major** → Significant but does not compromise safety or regulatory approval (e.g., supplier change, DMR update, material).
-- **Minor** → Administrative or editorial, no change to safety, performance, or approval status.
+Department: Production
+| Possible Impact Area | Impact | Documents Impacted | Justification |
+|----------------------|--------|---------------------|---------------|
+| Manufacturing Processes - Flow chart, DHR, SOPs | Yes | [UTSOPC-16] - Pin Loading Process | SOP and BMR to be revised for new machine. |
+| Machines and equipment | Yes | — | Machine qualification and calibration required. |
+| Process Validation | Yes | — | Validation to be performed. |
+| Production planning/Logistics | No | — | No impact. |
+| Environmental and Premises | Yes | — | Area monitoring required. |
+| Others | Yes | — | Training to be imparted. |
 
-Clearly state the **Impact Type** and justification in 2–4 sentences based on your risk summary and impact tables.
+[... Other departments ...]
 
+**Risk Assessment**: The new machine may affect pin loading consistency; requires IQ, OQ, PQ and operator training to mitigate risks.
+**Impact Type**: Minor. The change enhances production capacity without affecting product safety or performance.
 
 Change Description:
 \"\"\"{change_description}\"\"\"
@@ -121,7 +177,7 @@ Respond in Markdown table format, one per department.
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[{"role": "user", "content": prompt}],
-        temperature=0.3
+        temperature=0.5
     )
 
     return response.choices[0].message.content
