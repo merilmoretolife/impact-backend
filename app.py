@@ -52,6 +52,7 @@ You are a regulatory and quality expert analyzing the departmental impact of a c
 
 - Cite documents as **[Document Number] - [Title]**. Use "—" if no documents match.
 - Example: For "new supplier for Tyvek pouches," match documents like `QASOP-10 - Supplier Control`.
+- PROCs are not always affected e.g. Procedure for technical documentation won't affect, it is a procedure not actual technical documentation, in case of new supplier - Procedure of Supplier won't affect, new supplier control will be created, ASL will be updated, Quality Agreement will be prepared and signed, etc. 
 
 ### Department Impact Tables
 For each department, evaluate all listed impact areas. Use this format:
@@ -121,7 +122,7 @@ The departments and their possible impact areas are:
     
 ---
 
-### 🔍 Risk Assessment Summary
+### Risk Assessment Summary
 
 Based on the above impact analysis, assess the **risk level** of this change:
 - Identify whether the change affects product quality, safety, regulatory compliance, or key QMS systems and provide identified risks and what mitigation steps will be taken.
