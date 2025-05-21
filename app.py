@@ -114,10 +114,10 @@ The following is the complete list of document series available for creation or 
   - AB Section: Use `RMTS`, `PMTS`, `FGTS`, etc., unless Gelatin Sponge (`RMTSAGS`, `PMTSAGS`).
 - Avoid irrelevant documents (e.g., do not select `EOD` unless standards are explicitly mentioned).
 - Format documents as `[Series] - [Description]` (e.g., `[PMTS] - Packaging Material Specification`).
-- Use "—" if no documents are impacted for an area.
 
 ### Department Impact Tables
-For each department (Design, Production, QC, QA, RA), evaluate all listed impact areas. Use this format:
+For each department (Design, Production, QC, QA, RA), evaluate and show all listed impact areas. Use "—" if no documents are impacted for an area.
+Use this format:
 ```
 Department: [Department Name]
 | Possible Impact Area | Impact | Documents Impacted | Justification |
