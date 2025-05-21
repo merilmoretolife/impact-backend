@@ -69,6 +69,7 @@ def generate_impact_analysis(department_input, change_description, product_name)
         "RA - Manufacturing License details, list of products, standards, Organization Chart, QMS process interactions",
         "PROC - Quality Procedures (as per ISO 13485)",
         "Validation of Equipments - IQ, OQ, PQ, VMP Validation Master Plan",
+        "Machines and Equipment - EQUIP (Equipment ID), Equipment List",
         "Validation of Microbiology tests - Bioburden, Sterilization test, etc.",
         "Stability Study plan - Stability Study Plan and Reports of all products",
         "SC - Supplier Control (Supplier Profile containing supplier details, agreement, certification)",
